@@ -7,12 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-[One chart to rule them all!](https://sagangromov.github.io/al-folio/assets/pdf/OneChart.pdf)
+[One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
-[Produtos warped](https://sagangromov.github.io/al-folio/assets/pdf/ProdutosWarped.pdf)
+[Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
 
-[Referenciais geodésicos](https://sagangromov.github.io/al-folio/assets/pdf/RefGeodesico.pdf)
+[Referenciais geodésicos](https://sagangromov.github.io/assets/pdf/RefGeodesico.pdf)
 
-[Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/al-folio/assets/pdf/listas.pdf)
+[Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/assets/pdf/listas.pdf)
 
-[Um passeio histórico](https://sagangromov.github.io/al-folio/assets/pdf/passeio.pdf)
+[Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
