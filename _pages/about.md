@@ -6,7 +6,7 @@ subtitle: <a href='#'>
 
 profile:
   align: right
-  image: NandorR.png
+  image: Nandor_3250x4333.png
   image_circular: false # crops the image to make it circular
   address: 
 
