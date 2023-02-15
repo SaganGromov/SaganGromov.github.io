@@ -13,7 +13,7 @@ nav_order: 2
 
 [Referenciais geodésicos](https://sagangromov.github.io/assets/pdf/RefGeodesico.pdf)
 
-[Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/assets/pdf/listas.pdf)
+[Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/assets/pdf/listasGeoFormas.pdf)
 
 [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
