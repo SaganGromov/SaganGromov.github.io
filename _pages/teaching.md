@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /meustextos/
 title: meus textos
 description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis :)
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-[https://github.com/SaganGromov/OneChartToRuleThemAll](OneChart)
+[One chart to rule them all!](https://github.com/SaganGromov/OneChartToRuleThemAll)
