@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: sobre
 permalink: /
 subtitle: <a href='#'>
 
@@ -8,10 +8,7 @@ profile:
   align: left
   image: 
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Departamento de Matemática</p>
-    <p>Universidade de Brasília</p>
-    <p>Distrito Federal</p>
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
