@@ -6,7 +6,7 @@ subtitle: <a href='#'>
 
 profile:
   align: left
-  image: nandor.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
     <p>Departamento de Matemática</p>
