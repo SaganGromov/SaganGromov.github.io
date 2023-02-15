@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-[One chart to rule them all! Tensores](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
+[One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
 [Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
 
@@ -16,3 +16,5 @@ nav_order: 2
 [Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/assets/pdf/listas.pdf)
 
 [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
+
+[Slides do seminário "Classificações topológicas reveladas pelo fluxo de Ricci"](https://sagangromov.github.io/assets/pdf/Seminário03do08.pdf)
