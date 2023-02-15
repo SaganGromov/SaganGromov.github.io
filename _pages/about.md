@@ -6,7 +6,7 @@ subtitle: <a href='#'>
 
 profile:
   align: right
-  image: einsteinToro.png
+  image: wormhole.webp
   image_circular: false # crops the image to make it circular
   address: 
 
