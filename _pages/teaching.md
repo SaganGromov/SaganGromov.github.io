@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+* [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
+
 * [One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
 * [Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
@@ -15,6 +17,10 @@ nav_order: 2
 
 * [Listas resolvidas da disciplina Geometria das Formas Diferenciais](https://sagangromov.github.io/assets/pdf/listasGeoFormas.pdf)
 
-* [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
-
 * [Slides do seminário "Classificações topológicas reveladas pelo fluxo de Ricci"](https://sagangromov.github.io/assets/pdf/Seminário03do08.pdf)
+
+* [Soluções de exercícios de topologia geral do verão de 2019 da UnB](https://sagangromov.github.io/assets/pdf/questoesTopologia.pdf)
+
+* [Notas de aula do meu minicurso apresentado no PETMAT de variedades diferenciáveis](https://sagangromov.github.io/assets/pdf/MinicursoPETMAT.pdf)
+
+* [Meu trabalho apresentado no ENAPETMAT 2019](https://sagangromov.github.io/assets/pdf/TrabalhoENAPETMAT.pdf)
