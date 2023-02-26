@@ -19,6 +19,8 @@ nav_order: 2
 
 * [Slides do seminário "Classificações topológicas reveladas pelo fluxo de Ricci"](https://sagangromov.github.io/assets/pdf/Seminário03do08.pdf)
 
+* [Notas do seminário sobre tensores da disciplina "Formas diferenciais e aplicações"](https://sagangromov.github.io/assets/pdf/Tensores1104.pdf)
+
 * [Soluções de exercícios de topologia geral do verão de 2019 da UnB](https://sagangromov.github.io/assets/pdf/questoesTopologia.pdf)
 
 * [Notas de aula do meu minicurso apresentado no PETMAT de variedades diferenciáveis](https://sagangromov.github.io/assets/pdf/MinicursoPETMAT.pdf)
