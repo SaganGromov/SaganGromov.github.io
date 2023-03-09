@@ -9,6 +9,8 @@ nav_order: 2
 
 * [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
+* [Minha dissertação de mestrado](https://sagangromov.github.io/assets/pdf/MinhaDissertacao.pdf)
+
 * [One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
 * [Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
