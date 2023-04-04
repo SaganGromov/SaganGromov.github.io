@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Bem-vindo(a) à página pessoal de Matheus Andrade Ribeiro de Moura Horácio. Sou bacharel em matemática pela Universidade de Brasília (2017/2-2020/1) e mestre em matemática pela mesma instituição (2021-2023). Atualmente sou aluno de doutorado, também pela mesma instituição. Meus principais interesses matemáticos estão ligados ao fluxo de Ricci. 
+Bem-vindo(a) à página pessoal de Matheus Andrade Ribeiro de Moura Horácio. Sou bacharel em matemática pela Universidade de Brasília (2017/2-2020/1) e mestre em matemática pela mesma instituição (2021-2023). Atualmente sou aluno de doutorado, também pela mesma instituição. Meus principais interesses matemáticos estão ligados ao fluxo de Ricci. TesteApr04
