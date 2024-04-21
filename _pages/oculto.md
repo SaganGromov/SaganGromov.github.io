@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /oculto/
-title: oculo
+title: oculto
 description: testando
-nav: true
+nav: false
 nav_order: 3
 ---
 
