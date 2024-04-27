@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /oculto/
-title: oculto
-description: testando
+title: úteis
+description: 
 nav: false
 nav_order: 3
 ---
 
-* [teste](https://sagangromov.github.io/assets/pdf/passeio.pdf)
+* [Geometria Riemanniana, Manfredo](https://sagangromov.github.io/assets/pdf/Manfredo.pdf)
 
 
