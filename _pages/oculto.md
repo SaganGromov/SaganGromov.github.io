@@ -12,3 +12,4 @@ nav_order: 3
 * [Topologia Algébrica](https://sagangromov.github.io/assets/pdf/topalg.pdf)
 
 
+* [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
