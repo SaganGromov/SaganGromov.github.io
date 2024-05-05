@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /oculto/
+permalink: /util/
 title: úteis
 description: 
 nav: false
@@ -13,3 +13,11 @@ nav_order: 3
 
 
 * [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
+
+* [An introduction to Riemannian manifolds, John Lee](https://sagangromov.github.io/assets/pdf/RiemLee.pdf)
+
+* [An Introduction to Smooth Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/SmoothLee.pdf)
+
+* [An Introduction to Topological Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/TopLee.pdf)
+
+* [An Introduction to Manifolds, Loring Tu](https://sagangromov.github.io/assets/pdf/ManTu.pdf)
