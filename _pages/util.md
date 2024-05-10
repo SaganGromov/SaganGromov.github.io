@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /util/
+permalink: /qw/
 title: úteis
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 
@@ -22,3 +22,5 @@ nav_order: 3
 * [Introduction to Topological Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/TopLee.pdf)
 
 * [An Introduction to Manifolds, Loring Tu](https://sagangromov.github.io/assets/pdf/ManTu.pdf)
+
+* [Algebraic Topology, Hatcher](https://sagangromov.github.io/assets/pdf/hatcher.pdf)
