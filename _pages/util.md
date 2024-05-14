@@ -3,7 +3,7 @@ layout: page
 permalink: /qw/
 title: úteis
 description: 
-nav: false
+nav: true
 nav_order: 3
 ---
 
