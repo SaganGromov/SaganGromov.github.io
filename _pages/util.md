@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /qw/
+permalink: /util/
 title: úteis
 description: 
 nav: true
