@@ -3,7 +3,7 @@ layout: page
 permalink: /reminders/
 title: reminders
 description: 
-nav: true
+nav: false
 nav_order: 4
 ---
 
