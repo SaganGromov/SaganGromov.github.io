@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /qw/
+permalink: /reminders/
 title: reminders
 description: 
 nav: true
