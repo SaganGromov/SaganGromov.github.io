@@ -13,6 +13,8 @@ nav_order: 3
 
 * [Lectures on Algebraic Topology, Sergey V. Matveev](https://sagangromov.github.io/assets/pdf/topalg.pdf)
 
+* [A compreheensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
+
 * [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
 
 * [Introduction to Riemannian manifolds, John Lee](https://sagangromov.github.io/assets/pdf/RiemLee.pdf)
