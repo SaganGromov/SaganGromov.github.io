@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /qw/
+title: reminders
+description: 
+nav: true
+nav_order: 4
+---
+
+* texto sobre substituir provas que alegam desnecessariamente ser por absurdo por provas completamente por contra-positiva
