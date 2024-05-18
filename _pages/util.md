@@ -16,7 +16,7 @@ nav_order: 3
 * [A comprehensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
 
 
-* [A comprehensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
+* [A compreheensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
 
 * [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
 
