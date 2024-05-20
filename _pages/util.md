@@ -13,11 +13,15 @@ nav_order: 3
 
 * [Lectures on Algebraic Topology, Sergey V. Matveev](https://sagangromov.github.io/assets/pdf/topalg.pdf)
 
-* [A compreheensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
+* [A comprehensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
 
-* [A compreheensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
+* [A comprehensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
 
-* [A compreheensive introduction to differential geometry, Volume Three, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol3.pdf)
+* [A comprehensive introduction to differential geometry, Volume Three, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol3.pdf)
+
+* [A comprehensive introduction to differential geometry, Volume Four, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol4.pdf)
+
+* [A comprehensive introduction to differential geometry, Volume Five, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol5.pdf)
 
 * [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
 
