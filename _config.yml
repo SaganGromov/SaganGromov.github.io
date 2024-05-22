@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: γεωμετρία # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Matheus
-middle_name: Andrade Ribeiro de Moura
-last_name: Horácio
+middle_name: 
+last_name: A. R. M. Horácio
 email: matheus.andrade5488@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Página pessoal de Matheus A. R. M. Horácio.
