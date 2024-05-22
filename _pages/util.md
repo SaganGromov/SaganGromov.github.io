@@ -7,6 +7,14 @@ nav: true
 nav_order: 3
 ---
 
+# Links úteis
+
+* [Math.StackExchange](https://math.stackexchange.com/)
+
+* [Libgen](https://libgen.is/)
+
+## Livros úteis
+
 * [Geometria Riemanniana, Manfredo](https://sagangromov.github.io/assets/pdf/Manfredo.pdf)
 
 * [Riemannian Geometry, Petersen](https://sagangromov.github.io/assets/pdf/PetR.pdf)
