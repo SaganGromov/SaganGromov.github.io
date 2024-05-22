@@ -7,13 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-# Links úteis
-
-* [Math.StackExchange](https://math.stackexchange.com/)
-
-* [Libgen](https://libgen.is/)
-
-## Livros úteis
+# Livros úteis
 
 * [Geometria Riemanniana, Manfredo](https://sagangromov.github.io/assets/pdf/Manfredo.pdf)
 
@@ -44,3 +38,11 @@ nav_order: 3
 * [Topology, Munkres](https://sagangromov.github.io/assets/pdf/munkrest.pdf)
 
 * [Algebraic Topology, Hatcher](https://sagangromov.github.io/assets/pdf/hatcher.pdf)
+
+
+## Links úteis
+
+* [Math.StackExchange](https://math.stackexchange.com/)
+
+* [Libgen](https://libgen.is/)
+
