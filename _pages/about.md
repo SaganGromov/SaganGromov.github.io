@@ -15,4 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Olá! Seja bem-vindo(a) à minha página pessoal. Sou bacharel e mestre em matemática pela Universidade de Brasília. Atualmente sou aluno de doutorado, também pela mesma instituição. Sou (um aspirante a) geômetra, e meus principais interesses matemáticos estão intimamente relacionados com o fluxo de Ricci. 
+Olá! Seja bem-vindo(a) à minha página pessoal. 
+
+Sou bacharel e mestre em matemática pela Universidade de Brasília. Atualmente sou aluno de doutorado, também pela mesma instituição. Sou (um aspirante a) geômetra, e meus principais interesses matemáticos estão intimamente relacionados com o fluxo de Ricci. 
