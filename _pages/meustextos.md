@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-* [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
+* [Um passeio histórico: de Eratóstenes a Perelman e a topologia do Cosmos](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
 * [Minha dissertação de mestrado](https://sagangromov.github.io/assets/pdf/MinhaDissertacao.pdf)
 
