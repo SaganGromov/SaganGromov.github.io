@@ -15,8 +15,6 @@ nav_order: 3
 
 * [Riemannian Geometry, Petersen](https://sagangromov.github.io/assets/pdf/PetR.pdf)
 
-* [Lectures on Algebraic Topology, Sergey V. Matveev](https://sagangromov.github.io/assets/pdf/topalg.pdf)
-
 * [A comprehensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
 
 * [A comprehensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
@@ -26,8 +24,6 @@ nav_order: 3
 * [A comprehensive introduction to differential geometry, Volume Four, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol4.pdf)
 
 * [A comprehensive introduction to differential geometry, Volume Five, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol5.pdf)
-
-* [Topological methods in group theory](https://sagangromov.github.io/assets/pdf/topalg2.pdf)
 
 * [Introduction to Riemannian manifolds, John Lee](https://sagangromov.github.io/assets/pdf/RiemLee.pdf)
 
@@ -39,12 +35,16 @@ nav_order: 3
 
 * [Topology, Munkres](https://sagangromov.github.io/assets/pdf/munkrest.pdf)
 
-* [Algebraic Topology, Hatcher](https://sagangromov.github.io/assets/pdf/hatcher.pdf)
-
 
 ## Links úteis
 
+* [sci-hub](https://sci-hub.se/)
+
+* [libgen](https://libgen.is/)
+
 * [Math.StackExchange](https://math.stackexchange.com/)
 
-* [Libgen](https://libgen.is/)
+* [MathOverflow](https://mathoverflow.net/)
+
+
 
