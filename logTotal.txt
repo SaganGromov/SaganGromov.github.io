@@ -1,0 +1,3708 @@
+commit 8909bcf522ff2c222fab50c95514f40049eb9071
+Author: Matheus Horácio <matheus.andrade5488@gmail.com>
+Date:   Wed Jul 24 03:27:57 2024 -0300
+
+    atualizacao em 24-07-2024 03:27:57
+
+commit 4580d2c129dd140ced2d93f0db726a8f8bdd51d5
+Author: Matheus Horácio <matheus.andrade5488@gmail.com>
+Date:   Wed Jul 24 03:25:42 2024 -0300
+
+    atualizacao em 24-07-2024 03:25:42
+
+commit 03206a8d92fdf9f557c2dad0771559f1004c348e
+Author: Matheus Horácio <matheus.andrade5488@gmail.com>
+Date:   Wed Jul 24 03:21:37 2024 -0300
+
+    Revert "atualizacao em 24-07-2024 03:13:41"
+    
+    This reverts commit d69af17bb0475511ec8cc8cf9bad562dfcc31a95.
+
+commit d69af17bb0475511ec8cc8cf9bad562dfcc31a95
+Author: Matheus Horácio <matheus.andrade5488@gmail.com>
+Date:   Wed Jul 24 03:13:41 2024 -0300
+
+    atualizacao em 24-07-2024 03:13:41
+
+commit eaaaf6161715554effa751adc2b0e785b2275a64
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat Jul 20 03:47:57 2024 -0300
+
+    update produtos-warped
+
+commit 71c131e5d80c99b4b455db23cc3d60adb4759ddd
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed Jul 17 00:23:57 2024 -0300
+
+    Add files via upload
+
+commit 548890ba3a93e52a23581929afdc5843f285923c
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Fri Jul 12 00:52:08 2024 -0300
+
+    Add files via upload
+
+commit 32717173fc64388d977a1453be9109b03c0be3e4
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Fri Jul 5 02:21:00 2024 -0300
+
+    ajustes uteis
+
+commit b6b821b6cc9421db5f765ca48748c8726ff42716
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Fri Jul 5 02:14:43 2024 -0300
+
+    ajustes
+
+commit 1b39b03b8b381248a24a7e344a3e96b81dfbb3c5
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed Jun 26 20:52:04 2024 -0300
+
+    ajustes
+
+commit 79a8a67b83139785b64a930643a21c19494978da
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed Jun 26 13:37:38 2024 -0300
+
+    Add files via upload
+
+commit 032e6ed79f5d6686635665591ef28c441b929268
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Fri Jun 14 10:14:59 2024 -0300
+
+    Add files via upload
+
+commit 10ea41a6a5bf5dd93caac5df3ec5eb21b784bff3
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Fri Jun 14 10:14:43 2024 -0300
+
+    Add files via upload
+
+commit e8b260008a389fe1740e7d0345dda7064c2f61d5
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sun May 26 02:28:59 2024 -0300
+
+    "Um passeio histórico" -> "Um passeio histórico: de Eratóstenes a Perelman e a topologia do Cosmos"
+
+commit ec5d33e1209aebd3f1cf7daf77f0f85f8bd30ce5
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed May 22 23:04:32 2024 -0300
+
+    Update util.md
+
+commit 6625f46f42b044419adf95292832751d639627a2
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 22 23:01:30 2024 -0300
+
+    add "Geometry with an introduction to cosmic topology"
+
+commit 1b5ed32e9dc695b94a8ebf6d5e0c6186fcd6f5b6
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed May 22 22:56:29 2024 -0300
+
+    Update about.md
+
+commit c06c4e3ae5a9f474ec021ca472f88a20e0d82db0
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 22 02:20:32 2024 -0300
+
+    colocando titulo de volta
+
+commit e9239bfbd56a540e80b6d480438abaefbe31a9b4
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 22 02:17:40 2024 -0300
+
+    trocando ordem
+
+commit 1228e9f5244b8e511390da2808290b6eeaf6f930
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 22 02:17:04 2024 -0300
+
+    removendo titulo
+
+commit 6d431195058b027aecd0804eb4de600e91c3ccef
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 22 02:14:47 2024 -0300
+
+    estética e links novos
+
+commit b2ed0cfa089a150a4ce86f364bd2592dc030f951
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed May 22 00:44:46 2024 -0300
+
+    Update _config.yml
+
+commit 10266d496a7cc63e5c18f1697ed83653eec046af
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Tue May 21 22:03:42 2024 -0300
+
+    Update about.md
+
+commit 8f3d3f2eca98648fe1be096c97901e98cea417d7
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Mon May 20 15:53:33 2024 -0300
+
+    SpivakVol5
+
+commit fd9947ed88a314a0fb8f0c72b923269ae6b32fd5
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:45:13 2024 -0300
+
+    add sp vol3
+
+commit 1d133b24569f755dd04ae9cfccffc118b1c08281
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:42:18 2024 -0300
+
+    besteirol
+
+commit 41b1e563b45fe77b0c0065649c8d33d914c64065
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:37:47 2024 -0300
+
+    revert bold
+
+commit c407929774dab752ab79e28df7535f0d16cd24db
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:35:40 2024 -0300
+
+    bold γεωμετρία
+
+commit e15138d3b2d98dab4c9f56b95746a09ffa6dcdf3
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:33:16 2024 -0300
+
+    add spivakvol2
+
+commit 704234ac1c998b1b62a10bb151b649c4aa576005
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:31:12 2024 -0300
+
+    add SpivakVol2
+
+commit 6f416c4883e98c8ccde68ef8e58db6eac5ee7942
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:24:52 2024 -0300
+
+    checkout bbdaee2 .
+
+commit cea72cbfa4a13859288d02dbd36961e493a5727d
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:23:20 2024 -0300
+
+    ''
+
+commit d46bc3d25c402e1a0103847837deaa96e0ec0bed
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:22:26 2024 -0300
+
+    from γεωμετρία to Matheus
+
+commit efe06d88fc5bf6111b5ee54834dcfb933dbaa828
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:19:22 2024 -0300
+
+    fix duplicated meustextos
+
+commit add714a541474a8185c240788920836fd74bea28
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:11:32 2024 -0300
+
+    typo on purpose
+
+commit 1a92cc115a9f41276fc8a161a23f575d7e81315f
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:07:09 2024 -0300
+
+    add SpivakVol2
+
+commit 4fb6325fd43b75d5d4fbbb052a86bd0b68359560
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 02:02:35 2024 -0300
+
+    checkout 1bda9b3 .
+
+commit 92362bdd5a590a63cb8963e1b2b8ccf26c0af46e
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 01:59:23 2024 -0300
+
+    Revert "checkout 2c8603e8212877a8dc58252b521b8b04dbbe7ae0 ."
+    
+    This reverts commit 2d543daa7648ac8a16ae48cfb1dee5ee12d64753.
+
+commit 2d543daa7648ac8a16ae48cfb1dee5ee12d64753
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 01:55:59 2024 -0300
+
+    checkout 2c8603e8212877a8dc58252b521b8b04dbbe7ae0 .
+
+commit 1e78a141064cf8565cf6fd45fbb062b66c3da7e4
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 01:50:38 2024 -0300
+
+    Revert "checkout 920a88d ."
+    
+    This reverts commit ab4c021715f260941b236bbcda5aeaaa7fc8aa47.
+
+commit ab4c021715f260941b236bbcda5aeaaa7fc8aa47
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Sat May 18 01:48:45 2024 -0300
+
+    checkout 920a88d .
+
+commit 5c22d17ac18d5cd9b9dca8433bd5711530366b3f
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 15 14:00:10 2024 -0300
+
+    util link
+
+commit 88a16b1cb4b4bb6a57556ae7fc5a795a97f48baa
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 15 13:19:29 2024 -0300
+
+    fix typo "compreehensive"
+
+commit bbdaee2ef2e5bc49bb08c26cfbde7c702128e2d6
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Wed May 15 13:13:32 2024 -0300
+
+    change reminders nav to false
+
+commit a1d38d1313ebc93c252f56b182354136d76a40d5
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Tue May 14 22:39:57 2024 -0300
+
+    fixed permalink
+
+commit 185d0070fb1346d0d23a63587a6d283346c7cc4d
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Tue May 14 22:37:01 2024 -0300
+
+    implement reminders
+
+commit 22d906ffb98f21f995195c5644c234e115646fe6
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Tue May 14 22:10:43 2024 -0300
+
+    added spivak volume one
+
+commit cdc8c9dc957d2e8a49c78a29792c52ff6f69435a
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Tue May 14 21:44:51 2024 -0300
+
+    added munkrest
+
+commit 1f9e7296ac3f90de3ad785121e7ea59e034e6961
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Mon May 13 23:17:34 2024 -0300
+
+    change qw nav to true
+
+commit d3bb8c84917c88660dd5416141693b8b3671a398
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:45:12 2024 -0300
+
+    unb
+
+commit 97194bcc3f4592dbb0d7e21f2b43fb5f55ac6f75
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:42:08 2024 -0300
+
+    teste
+
+commit 01feeb9de1394a61d7fe1b0d4b7e1ff044e5623a
+Merge: 9bda8e3 2d2afb9
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:39:40 2024 -0300
+
+    Merge branch 'master' of https://github.com/SaganGromov/SaganGromov.github.io
+
+commit 9bda8e30ee8790acca2cea7241a3ea869c501832
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:39:37 2024 -0300
+
+    resert to errata
+
+commit 2d2afb95959952e5c68eb5d5b1dcbeb7771d15d4
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:23:08 2024 -0300
+
+    remover teste 10 de maio
+
+commit cc12430574f5cd267a9f3f694263ed0a08fc85aa
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:08:22 2024 -0300
+
+    deletei ErrataBranch
+
+commit b8b968721e98661c30a1639126cd9782997fa56b
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 22:04:29 2024 -0300
+
+    teste10demaio
+
+commit dd5c827eaef58cc7fcd28d941cf90ac4b10e3fa2
+Author: Matheus Horacio <matheus.andrade5488@gmail.com>
+Date:   Thu May 9 21:46:46 2024 -0300
+
+    renaming teaching.md, adding hatcher
+
+commit 75ac0082e4c480cb99eacc4d66028b8ebf6b79d5
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Mon May 6 22:58:55 2024 -0300
+
+    errata de sinal
+
+commit dbcf33c077ee57140d9a668bf6f45e6d91f8db16
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Mon May 6 22:51:10 2024 -0300
+
+    prodWarpedErrata
+
+commit 0d7245bcb7f831ff9b269c8bcc23492c6402e165
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Sun May 5 01:50:03 2024 -0300
+
+    petR
+
+commit 97e77b3c44f1fe8e00486de06e7a807cdd521122
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Sun May 5 01:31:29 2024 -0300
+
+    add
+
+commit 31a60ea44845c4b66394c54cc216794df8bded4b
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Sun May 5 01:26:18 2024 -0300
+
+    add books
+
+commit 8feb753e910ff3bad815ad043611a718c07020bd
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Thu May 2 20:32:19 2024 -0300
+
+    topalg2
+
+commit 3acb9e98b6b99f4b32cb0db88de3617ef526523c
+Author: unknown <matheus.andrade5488@gmail.com>
+Date:   Mon Apr 29 04:24:07 2024 -0300
+
+    topalg
+
+commit 6806477964f32a5b3ff573db60ceff3a5720f954
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Sat Apr 27 00:46:19 2024 -0300
+
+    manfredo
+
+commit a5cb3ec4f871033a3385afd952ff9d5a4266f3ff
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Sun Apr 21 01:31:07 2024 -0300
+
+    teste2
+
+commit 920a88d8eb5003da3d13a9ecc75dd00206533da7
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Sun Apr 21 01:18:11 2024 -0300
+
+    testandoapr21
+
+commit 3ed4bf994b2d554bbcd5c0584f6fbfc9cd60bfe8
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Thu Apr 18 23:34:53 2024 -0300
+
+    adc2pdf
+
+commit 587604183c04b8adc08dc7d80c1d4d3c77965dfe
+Author: Sagan <matheus.andrade5488@gmail.com>
+Date:   Sat Mar 30 22:18:01 2024 -0300
+
+    reverse3003
+
+commit 5194e1aaa04cc93c2ece2ad4705173823aff291e
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Sat Mar 30 22:09:37 2024 -0300
+
+    3003
+
+commit 4469707bdba577a7e0b3ebe5422cbbbf11973dc1
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Wed Oct 25 00:04:01 2023 -0300
+
+    00h03AtOct25
+
+commit 82ef3839dba06bdfe0802bb7c5fc6517350b13d2
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Tue Oct 24 23:42:48 2023 -0300
+
+    teste23h42
+
+commit 2176e93c3988e13545bf9488ae526b0250d57fd9
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Sat Jul 29 03:17:38 2023 -0300
+
+    Jul29at03h17m
+
+commit be49aa37d0b4542dca46cb8335d309af413d6a32
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon May 22 18:23:35 2023 -0300
+
+    fixed
+
+commit 1bda9b3dbd0b2ab899e3a048c763a29552c47d20
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Thu Apr 27 17:20:00 2023 -0300
+
+    Apr27At17h20min
+
+commit 0fff520ca9aed68b5b2e3e7767aca05e62faf972
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Thu Apr 27 14:33:41 2023 -0300
+
+    27deAbril14h33min
+
+commit 145d800655747daa3d4c04a6c04d9171826bfb57
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Tue Apr 11 14:07:18 2023 -0300
+
+    fotoS
+
+commit c8674301b90b72e541117ebc2c930015ea7e7b20
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Tue Apr 11 09:36:43 2023 -0300
+
+    apr11at09h36
+
+commit c18633e4d213c17664458a05f06d8b327021c383
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon Apr 10 22:49:54 2023 -0300
+
+    typo
+
+commit 042816789a22a242c3c66455aae718483525a8f1
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon Apr 10 22:44:14 2023 -0300
+
+    index deletado
+
+commit 92dec341e5fcbce13488f1fca4c6efbcff1005cc
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon Apr 10 22:27:38 2023 -0300
+
+    2227
+
+commit 34190958fd897c41152ec5d9ddbbb50de255ac71
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon Apr 10 22:19:19 2023 -0300
+
+    commit2219
+
+commit fad52bdd31e943ecd43a1584913785bda2786ac7
+Author: Sagan <sagan@pop-os.localdomain>
+Date:   Mon Apr 10 22:18:28 2023 -0300
+
+    commit apr10
+
+commit 72f35c530ec44485a28f73c9b3f760529303e850
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Tue Apr 4 17:56:59 2023 -0300
+
+    bioApr04
+
+commit 08a8f9a5b37e51906a0fe56b2a933df2749f2fb1
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Tue Apr 4 17:46:18 2023 -0300
+
+    testeApr04
+
+commit 8eba0904d23080d23c662ce4aed56b3156033b08
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Thu Mar 9 16:56:13 2023 -0300
+
+    at
+
+commit 5f08fb39817483ed699f37add38dee236a07f856
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Mar 8 21:52:53 2023 -0300
+
+    dissertacao adicionada
+
+commit 146d6b994be07631910b789cf3c7bae8db018ee4
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Mon Mar 6 14:08:05 2023 -0300
+
+    mestre
+
+commit 8e3699a74bca9439361c8bb48d6ca9262b1071f8
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Sun Feb 26 00:55:39 2023 -0300
+
+    apresentacao tensores formas adicionada
+
+commit 449232faa916554420cf803d7dd28f73c71135af
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Tue Feb 21 16:07:59 2023 -0300
+
+    mais textos adicionados
+
+commit 727cd3eb7aaa2c91d6623fcf0088f3dc133bb523
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Thu Feb 16 17:41:46 2023 -0300
+
+    textos
+
+commit 24ad538ec7d50aee1867b93a5b4a932c3b59e850
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 22:12:28 2023 -0300
+
+    rightagain
+
+commit b923fd57103b49dbce45244d1038468270aecb38
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 18:32:25 2023 -0300
+
+    description
+
+commit 9effac2f1a47cc404b8a9f786905b86eef68ab05
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 16:15:03 2023 -0300
+
+    leftalign
+
+commit fbfd1f05e741f659ca5a1df4127e6e8337dadff9
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 16:10:26 2023 -0300
+
+    typo
+
+commit 010bfe97695338eebf4632f00e9d5d58ada64749
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 16:03:33 2023 -0300
+
+    **
+
+commit 88040055083b1c0532c60b53bed24ccea3becc21
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 16:00:51 2023 -0300
+
+    *
+
+commit b3cf4946fef3cd61764d4fd2c90571fbf9b5ba59
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:32:48 2023 -0300
+
+    updated
+
+commit 7f114163fd644298acabb9277c7a0f51789c438d
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:27:39 2023 -0300
+
+    back
+
+commit af5eda40490c97ded5582382169c7948300b636e
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:24:34 2023 -0300
+
+    blackR.jpg
+
+commit b25870dc1736a1e37b5e21bb861704b376ef58b2
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:19:32 2023 -0300
+
+    wormhole
+
+commit 9de30ee523f75a4627feee03a2ba0add8b4b8af6
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:13:50 2023 -0300
+
+    foto
+
+commit c17ec062b537b601bb0460b8ca5bd14a84cd5b25
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 15:09:19 2023 -0300
+
+    fotoEinstein
+
+commit 89b0d6f49b97d94c31661725621cb73266db3c8b
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:55:02 2023 -0300
+
+    fixed link from produtosWarped
+
+commit ece8713d5a1233eeabe93de23299bd263de529ab
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:53:04 2023 -0300
+
+    fixed link from refGeo
+
+commit 1a09c3fba6d81c3beb3e2c1f05c5f93f31e69518
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:45:42 2023 -0300
+
+    fixed listasGeoFormas
+
+commit af1ceebd07810d012d794ef6c4b3734f95bb5ac8
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:24:33 2023 -0300
+
+    add slides seminario 03do08
+
+commit 49a2f5480fd91dcefe73f7a57672c0c4ada77b60
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:18:25 2023 -0300
+
+    testeT
+
+commit 1d2566c47e4936e0e9143047bf1a67567706aad1
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:15:56 2023 -0300
+
+    fixing
+
+commit 2c47f49d80097737e6f2f918d231d4e8fd417d08
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 13:06:29 2023 -0300
+
+    tried to fix pdfs
+
+commit b9189b3e955f84e78e3c6e3f792efcbf1599a3a2
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:57:29 2023 -0300
+
+    footer and left align
+
+commit 78295c643aa45e74977eb3ea26e8a6fbb7f941d3
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:54:42 2023 -0300
+
+    reset profile picture
+
+commit 9a8e57833966cdbb9d4cd0cee319710e3aada5d5
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:52:47 2023 -0300
+
+    profile picture again
+
+commit fd2022bd24b3e8a3373264afec090c008f436d79
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:43:40 2023 -0300
+
+    footer
+
+commit 20800f99baa9acd4c64bf8569b2b9166f970037c
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:39:03 2023 -0300
+
+    right
+
+commit a22a6d2c91d1c9e839c244b3cffa61a70d9f9edd
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:36:40 2023 -0300
+
+    NandorR
+
+commit 2c8603e8212877a8dc58252b521b8b04dbbe7ae0
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:29:32 2023 -0300
+
+    twitter
+
+commit b8a544561aef8060e8fe5a6470d25c7112cd9ec3
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:21:36 2023 -0300
+
+    at
+
+commit 4d986981f69bb27279b6f6418ce308f9810c5062
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:19:08 2023 -0300
+
+    titulo
+
+commit 31d4796ab78cc6b865670eb5e5d8958e2fd0c5ba
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 02:11:48 2023 -0300
+
+    mais
+
+commit aa7ffe3c90868fcab1d26c258539590a30e5dc1f
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:52:08 2023 -0300
+
+    mais um
+
+commit 9da481afa35d6ad9f493d2f1a33049927b1c4aa6
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:47:59 2023 -0300
+
+    mudanças
+
+commit 87ba419303c8031147ae982757601bc74cdfc4e5
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:39:12 2023 -0300
+
+    ver se tira cv
+
+commit f7fab3a03c80d18660e898d1622c690955a37e23
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:36:08 2023 -0300
+
+    sem foto
+
+commit 77704411f63f58a1f77a08e3094cc29ab5680c12
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:34:06 2023 -0300
+
+    meu nome
+
+commit e61d0bf19e2bc0ebf7c0df2e37663fd5f5cf1c5c
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:30:29 2023 -0300
+
+    departamento
+
+commit 1a07300704748a41d9666af212dda43bc8d4a87b
+Author: SaganGromov <matheus.andrade5488@gmail.com>
+Date:   Wed Feb 15 01:27:44 2023 -0300
+
+    bemvindo
+
+commit e2322262f549243a74f00a340d044c4c82459e4e
+Author: Matheus Andrade Ribeiro de Moura Horácio <114970854+SaganGromov@users.noreply.github.com>
+Date:   Wed Feb 15 01:19:23 2023 -0300
+
+    Create jekyll.yml
+
+commit 182eb946dce49094319a53f39ed258a5d0dc3fcb
+Author: George <31376482+george-gca@users.noreply.github.com>
+Date:   Mon Feb 13 01:53:24 2023 -0300
+
+    Added george-gca academic site (#1183)
+    
+    Added new academic site
+    
+    Signed-off-by: George Araújo <george.gcac@gmail.com>
+    
+    Signed-off-by: George Araújo <george.gcac@gmail.com>
+
+commit 9b14e422a3502178db0b75968c0a78e82901b20d
+Author: Divakar Verma <divakarv96@gmail.com>
+Date:   Sun Feb 12 11:18:50 2023 -0500
+
+    Add star to academic portfolios (#1178)
+    
+    Adding my portfolio website to the list.
+
+commit efaafaa0dc768239bd269037acf40557ed9b6898
+Author: Kushin Mukherjee <kushinm11@gmail.com>
+Date:   Fri Feb 10 10:59:11 2023 -0600
+
+    Add CogSci workshop to list of workshops in README (#1170)
+    
+    created a new row in the 'Workshops' section to add a workshop at Cogsci
+    2022 where we used this awesome template!
+    Thanks!
+
+commit 33f29dd3bca1aa35d1459b63c447b83eef01e70d
+Author: Zuhair AlSader <zalsader@hotmail.com>
+Date:   Sat Feb 4 21:16:23 2023 -0500
+
+    Use figure for bib entry preview (#1152)
+    
+    This makes sure that the image is resized per media type by imagemagick.
+    The result is still a bit too big (1400 width on desktop), but better
+    than nothing.
+    
+    Signed-off-by: Zuhair AlSader <zalsader@hotmail.com>
+
+commit d0b0d9e014103d38db0c4191bf4ae1bb924f50f2
+Author: ZhengLin Li <63448884+ZhengLin-Li@users.noreply.github.com>
+Date:   Fri Feb 3 08:03:47 2023 -0800
+
+    fix: small typo (#1143)
+    
+    fix a small typo
+
+commit aca95e563bc6968fe8897d72013bfdd93a1d315f
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Sun Jan 15 09:26:38 2023 +0530
+
+    fix distill hyperlink color (#1113)
+    
+    Make distill hyperlink color logic consistent with rest of the theme.
+    
+    fixes #1105
+
+commit cfdde2426d57cd62cda366015811f1bbbd9c542e
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Tue Jan 10 19:33:41 2023 +0530
+
+    Update favicon emoji length limit (#1099)
+    
+    Since, a image file will always contain a dot and a three letter
+    extension at least (ex: `.jpg`, `.png`, `.jpeg`, etc). Therefore we can
+    safely set the limit up to 4.
+    
+    fixes #1096
+
+commit 909401f7c67ce7dcec133edce2beff27ed4e1a0c
+Author: Rodo-Singh <adityasinghdrdo@gmail.com>
+Date:   Mon Jan 9 18:24:34 2023 +0530
+
+    Added my star to README (#1093)
+    
+    Added my webpage link (⭐) to the table of `al-folio` users.
+
+commit f2be212967ce3ea067b8737d5c9167c258685d1c
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Sun Jan 8 22:46:31 2023 +0530
+
+    Add news page (#1085)
+    
+    fixes #993
+    
+    Also added links to news and publications from respective section
+    headers on the home page. Changed the colors of the header links to make
+    it consistent with the previous look.
+
+commit a9685570e5889f1f57b3fac5d5ff8f79795b9bcb
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Sun Jan 8 21:17:25 2023 +0530
+
+    Adds Dimensions badge (#1086)
+    
+    This adds a dimension badge as requested in #987.
+    
+    This separates the the links from the badges, in case more badges need to be added in the future.
+
+commit e7b83a736e2231650b616b681a460ff997dd1bd4
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Jan 8 07:35:00 2023 -0800
+
+    Fix Docker Problem (#1074)
+
+commit f17eb7fd5d408fccb0d8c92175b360bd4c70589e
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Sun Jan 8 00:16:44 2023 +0530
+
+    Fix SRI hash (#1087)
+    
+    Sorry, forgot to change the SRI.
+
+commit 3a4de50705593ce0fc250efed165ac9c4e4f76ad
+Author: Rohan Deb Sarkar <rohandebsarkar@protonmail.com>
+Date:   Sat Jan 7 21:37:54 2023 +0530
+
+    Fix medium zoom on small devices (#1084)
+    
+    fixes #1006
+
+commit 69e013b9a0f0418af0a8a3c921d3a0f283a8bdb1
+Author: Philip Wong <4522927+p2635@users.noreply.github.com>
+Date:   Sun Jan 1 00:31:06 2023 +0000
+
+    Add youtube as a social option (#1007)
+
+commit 535884424195860c6d45fead6f3de3e321db789c
+Author: djherron <dave.herron1@gmail.com>
+Date:   Sun Jan 1 00:08:07 2023 +0000
+
+    add star to readme (#1064)
+
+commit 925cac03bbdead2b42f85cadfcbed028873cd12b
+Author: Simmo Saan <simmo.saan@gmail.com>
+Date:   Sun Dec 25 21:03:26 2022 +0200
+
+    Improve bib layout for thesis (#920)
+
+commit 34eb856fb872f4a0973a5503e8435cb54cc287b1
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Dec 25 10:52:28 2022 -0800
+
+    Add Pre-commit Hook (#801)
+
+commit 5e48424e58ea71652e35b3db89dccc98b8a067eb
+Author: Mohammad Qodrati <qodrati.m@gmail.com>
+Date:   Sun Dec 25 22:17:08 2022 +0330
+
+    Hide the other opened box (Bib, Abs), if any (#1002)
+
+commit 37ccb2e434fc2ec6c2b1879eb215780afbe4fff3
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Dec 20 15:09:32 2022 -0800
+
+    Add interactive plotly example to distill post (#1027)
+
+commit b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Dec 11 19:33:09 2022 -0800
+
+    Add support for giscus comments (#1028)
+    
+    adds support for comments on posts using https://giscus.app/
+
+commit 5c5a2c850933932730c637d67fdf33c524ef645f
+Author: Fares Meghdouri <33158574+fm94@users.noreply.github.com>
+Date:   Mon Dec 12 04:16:19 2022 +0100
+
+    Adapt repo code to handle branches too (#1003)
+
+commit 4883684acf8d5ae3708437ff6ab47da7c3d12c6c
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Dec 11 10:21:12 2022 +0330
+
+    Add Container Name (#1021)
+
+commit e78a622ac3010a97f7fed1fcf7018e0194b741e8
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Dec 11 08:06:24 2022 +0330
+
+    ADD More Clear Explanations in README (#1012)
+
+commit cbd969878473b62acd56bd5590aaf3fafd2744e2
+Author: Noman Bashir <noman.bashir.ahmad@gmail.com>
+Date:   Sat Dec 10 10:04:26 2022 -0500
+
+    Update README.md (#1014)
+    
+    Adding my webpage.
+
+commit 010d2ee5308acc3d0b211fed86e6a0446c12fa78
+Author: Ellis Brown <ellis.l.brown.ii@gmail.com>
+Date:   Wed Nov 30 11:44:48 2022 -0500
+
+    add ellisbrown.github.io reference (#1008)
+
+commit df70bfe57cfd6797e85b635dc6bb4716ee6517de
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Nov 20 01:15:42 2022 +0530
+
+    fix deploy script for `--user` (#994)
+    
+    Fixes #820.
+    
+    Explanation:
+    https://github.com/alshedivat/al-folio/discussions/969#discussioncomment-4180959
+
+commit f1eb1602a367a0f28271616a0d64ce329e30c814
+Author: Andrea Gasparini <andrea.gasparini11@gmail.com>
+Date:   Sat Nov 19 16:19:56 2022 +0100
+
+    Adds Telegram to social integrations (#992)
+
+commit 01119b9f7780fb923e8c5e554a135b4b20bb796c
+Author: Andreas Kuster <20418060+andreaskuster@users.noreply.github.com>
+Date:   Wed Nov 16 16:46:27 2022 +0800
+
+    Add Andreas Kuster's published webpage (#991)
+    
+    Thanks a lot for this very neat and professional template. This PR adds
+    my academic page to the Academics list
+
+commit e2966c4114441674b9947f0ea84d2ad371d231fd
+Author: Alireza Dehghanzadeh <86428901+adehghanzadeh@users.noreply.github.com>
+Date:   Tue Nov 15 17:30:22 2022 +0330
+
+    New update to GH Actions: Deprecating `save-state` and `set-output` commands (#986)
+    
+    Hi there
+    
+    First of all, thanks for this amazing complete theme
+    
+    Due to this warning which has been recently showed by Github,
+    `::set-output` will be deprecated and must be replaced with a new method
+    
+    
+    ![image](https://user-images.githubusercontent.com/86428901/201933020-4a53d735-08b4-41d3-b38c-e16942fdd64e.png)
+    
+    topic: [GitHub Actions: Deprecating save-state and set-output
+    commands](https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/)
+    
+    Thanks
+
+commit 357f6e914fdbd99efb8fc6bd8d0e6381f0385770
+Author: bruno vianna <bruno@pobox.com>
+Date:   Tue Nov 15 14:06:51 2022 +0100
+
+    Add backlink to verify mastodon (#978)
+
+commit f58ac5bcd5c5228c348c2f4ed163f243723251bc
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sat Nov 12 09:13:16 2022 +0530
+
+    Add support for Disqus comments on distill posts (#981)
+    
+    Fixes #980.
+
+commit 8f38315866a538b3db6a9141f23fafb146389f9b
+Author: Junshen Xu <junshenxu1996@gmail.com>
+Date:   Fri Nov 11 12:18:38 2022 -0500
+
+    Add Junshen's personal page (#979)
+    
+    Added a link to my personal website to the README.
+
+commit 576e7b0541d8089291e22504a0b10b0dd2b10a29
+Author: bruno vianna <bruno@pobox.com>
+Date:   Fri Nov 11 01:56:27 2022 +0100
+
+    Added Mastodon to social (#974)
+
+commit 7172df0877a30b12feea4b6c41adfdd9da7951c0
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Oct 31 18:57:43 2022 +0330
+
+    Add Docker-compose file for windows compatibility  (#875)
+    
+    This file makes it easier for windows users to use docker. (Closes #829)
+    
+    Previous to this commit, those who used Windows had to install Ubuntu
+    inside windows (via WSL) and run our commands. Now they can run it by
+    just typing `docker-compose up`.
+    
+    > The main problem was that `./bin/dockerhub_run.sh` command was written
+    with `Bash` in mind and you had to change it a little bit to make it
+    compatible with windows `Powershell`. We shouldn't have two scripts.
+    This is why adding a `docker-compose.yml` file is necessary.
+
+commit a552443256c10f9b76f83bc26a91158e4ba38327
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Oct 29 20:40:21 2022 -0400
+
+    Update README.md
+
+commit 92cbaf94ff8f2f36598d28d3afc6d61098ede3b0
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Tue Oct 25 08:41:33 2022 -0400
+
+    Small stylistic fix
+
+commit c87d1b446bc2f8ca8706e5cd467c7cc3c37f74ef
+Author: Dominik Straub <dominikstrb@mailbox.org>
+Date:   Tue Oct 25 14:27:45 2022 +0200
+
+    Add altmetric badges to paper (#950)
+    
+    [Altmetric](https://www.altmetric.com/) tracks social media and citation
+    activity for a paper. I added an option to add the altmeric id to a
+    paper's bib entry, which results in the altmeric badge for the paper
+    being displayed next to the other buttons. As an example, I added the
+    altmetric id for the Einstein, Podolsky & Rosen paper.
+
+commit 6bd11359a1dfb5817eb2704ca854ae5806a23b85
+Author: Muhamamd Naufal Shidqi <nopal.sidqi@gmail.com>
+Date:   Tue Oct 25 19:14:25 2022 +0700
+
+    Add WhatsApp to social integration (#945)
+
+commit 232ff286b22ad2fed3399f033f940f69e6a080cc
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Mon Oct 24 09:07:39 2022 -0400
+
+    Enable progress bar by default
+
+commit 08a839c5f59574b5f3d96910e2dad1821ece8c77
+Author: Carlos Morales <carlosmorales777@gmail.com>
+Date:   Mon Oct 24 10:38:26 2022 +0100
+
+    Add a progress bar to show the scroll position (#934)
+    
+    This feature adds a horizontal bar under the top menu which tracks the
+    vertical scroll position. Such a feature can be useful to represent how
+    much is left to read on the current page more aesthetically.
+    
+    As this is an optional feature, `enable_progressbar` must be set to
+    `true` in `_config.yml` to activate the functionality.
+    
+    I am not the original author of this code. I just made it compatible
+    with the current version of the template at the time of this commit. The
+    original code was most likely authored by Pankaj Parashar in this
+    [post](https://css-tricks.com/reading-position-indicator/) made a few
+    years before the first inclusion in an `al-folio` site. Then, the code
+    was adapted for compatibility with the template at Anthony Plantanios'
+    site. Finally, I did
+    the last updates to have the code fit the new conventions used in the
+    project.
+    
+    This was discussed in #557
+    
+    Co-authored-by: rohandebsarkar <rohandebsarkar@gmail.com>
+
+commit 215fb34d668beb3095877ba01b0d40fcb004266d
+Author: Miroslav Suzara <miroslav.suzara@gmail.com>
+Date:   Mon Oct 24 01:06:44 2022 -0700
+
+    Fixed broken link to distill-style blog post (#957)
+    
+    Updated README.md with the correct link to the distill-style blog post
+    example.
+
+commit 170e6ade14c092681cf76d07ae9114c389b761d6
+Author: Tyler Barna <57914086+tylerbarna@users.noreply.github.com>
+Date:   Sun Oct 23 23:53:31 2022 -0500
+
+    Update README.md (#953)
+    
+    added the link to the personal academic site I've started working on
+    using al-folio in the table
+
+commit 5f3c487b7f74f1e6a44912cab2742d7293bbd36a
+Author: Simmo Saan <simmo.saan@gmail.com>
+Date:   Sun Oct 16 14:06:52 2022 +0300
+
+    Slugify tag and category links (#947)
+    
+    Fixes links to jekyll-archive pages when tag/category contains spaces.
+
+commit 7d7567eac842aa40f888277eb5fc83119cdf3176
+Author: George <31376482+george-gca@users.noreply.github.com>
+Date:   Wed Oct 12 07:02:15 2022 -0300
+
+    Fixed missing year in title when in blog archive (#921)
+    
+    Fixed missing year in title when visualizing blog archive filtered by
+    year
+    
+    Signed-off-by: George Araujo <george.gcac@gmail.com>
+
+commit 951ae928581c5c9587211813ae56adc216126bd3
+Author: Carlos Morales <carlosmorales777@gmail.com>
+Date:   Mon Oct 10 17:43:59 2022 +0100
+
+    Fix default highlighting (#931)
+    
+    The default setting `media="none"` disables code highlighting. This
+    works OK when we have `enable_darkmode: true` in `config.yml` as the
+    code handling the dark/light theme switching takes care of setting
+    `media=""` for the preferred theme.
+    However, setting `enable_darkmode: false` prevents importing `theme.js`
+    which in turn prevents said change thus the default highlighting stays
+    disabled.
+    Setting `media=""` by default enables the default highlighting when
+    `enable_darkmode` is false.
+    
+    Fixes #929
+
+commit 30512eebda1fb9dd46bb107e869d5ec8de9b9411
+Author: Carlos Morales <carlosmorales777@gmail.com>
+Date:   Sat Oct 8 10:47:32 2022 +0100
+
+    Set the margin according to the alignment selected (#928)
+    
+    As reported in #927, the style of the profile class only considers a
+    left-margin regardless of the alignment option selected.
+    Thus, when the user changes the default alignment there is no
+    corresponding margin to match their selection.
+    My commit addresses this by enabling the corresponding margin for the
+    left or right alignment options
+
+commit fbbca1a8c4a29e5b9de70293068622069884f4f8
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Oct 2 09:08:39 2022 -0400
+
+    Update README.md
+
+commit 54cbd6d638b4021aa5d56df8c5e30b62106a591e
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Oct 2 16:23:50 2022 +0330
+
+    Add docker badges (#888)
+
+commit 23b0d1c598aa193e71f73e23135d7cb5b0aa4560
+Author: Carlos Morales <carlosmorales777@gmail.com>
+Date:   Sun Oct 2 13:52:37 2022 +0100
+
+    Improve info about theme colors (#911)
+
+commit 281cc82d41243d90c7921f45ce221b0b7a633a97
+Author: Josh Veitch-Michaelis <j.veitchmichaelis+github@gmail.com>
+Date:   Sun Oct 2 14:51:25 2022 +0200
+
+    fix bug where proceedings do not render (#913)
+
+commit bfc47258d744685399b704caf217210944e01615
+Author: Johannes Hörner <110042110+johanneshoerner@users.noreply.github.com>
+Date:   Sat Sep 24 04:42:27 2022 +0200
+
+    add multiple last names in bibliography (#905)
+    
+    Multiple last names can be defined to be highlighted in the bibliography
+    (#904)
+
+commit 93ab84322a6ff2f7009f417b3dca58b2991dc854
+Author: Amir Hossein Kargaran <kargaranamir@gmail.com>
+Date:   Wed Sep 14 05:43:46 2022 +0300
+
+    add more social media (#878)
+    
+    #877 is an explanation of the issue. The new icons include Kaggle,
+    LastFM, Spotify, Pinterest, Unsplash, Instagram, and Facebook, and you
+    can change their order.
+
+commit 7410772458eee0ec58c9a4d553bf8801cc9276e9
+Author: Dominik Straub <dominikstrb@mailbox.org>
+Date:   Tue Sep 13 16:25:20 2022 +0200
+
+    Add Semantic Scholar social integration (#879)
+
+commit 4d02d1c0ee10de6bdf5f4eca7c4adbe20f630213
+Author: Dominik Straub <dominikstrb@mailbox.org>
+Date:   Tue Sep 13 15:36:24 2022 +0200
+
+    Add dominikstrb's personal page (#880)
+    
+    Added a link to my personal website to the README
+
+commit 5b3117b079f5a10b3b48bd7814df358982e33585
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Tue Sep 13 03:29:11 2022 +0430
+
+    Adding Table of Contents to Readme file (#876)
+
+commit cf9640c877649c092448839510902f357bb1cfff
+Author: Lucas Hosseini <lucas.hosseini@gmail.com>
+Date:   Thu Sep 8 22:07:56 2022 +0200
+
+    Display booktitle for publications of type incollection (#871)
+
+commit 47694a1f774fb4dd7940250d628a26b46cc60bee
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Sep 8 16:05:31 2022 -0400
+
+    Update README.md
+
+commit 30e51bc90005f8bf36a4e1d59423531b04b22c30
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Aug 27 22:37:32 2022 -0400
+
+    Update 2018-12-22-distill.md
+
+commit bf6f8a41ad096ec24f8411c23cf6c342a61c59b8
+Author: wristy <wristy8@gmail.com>
+Date:   Sat Aug 27 09:45:54 2022 -0400
+
+    Fix grammar (#848)
+
+commit ca883669a18dcc3bf11c1f41defd0698484cc9ca
+Author: Yavuz Alp Sencer ÖZTÜRK <28690608+alpsencer@users.noreply.github.com>
+Date:   Tue Aug 16 19:30:09 2022 +0300
+
+    fixe typos (#823)
+
+commit c1428532e0735210175034d2588ce00446d3c335
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Aug 15 08:40:12 2022 +0530
+
+    fix #814 (#818)
+
+commit 967e367563ba1bc006053c14c989cc1bea77efb8
+Author: Tai D Nguyen <tainguyen7597@gmail.com>
+Date:   Sun Aug 14 15:26:33 2022 -0400
+
+    add page (#817)
+
+commit b2b14496c01af9c813969334a4815769b071659d
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Aug 14 15:25:25 2022 -0400
+
+    Update README.md
+
+commit 7a942fe05560144ed239f2d0d4981bdf03376031
+Author: Leandro A. Bugnon <lbugnon@sinc.unl.edu.ar>
+Date:   Sun Aug 14 16:17:25 2022 -0300
+
+    Add personal page (#812)
+
+commit a36d7f58074b7805cc3906760c2eea7288f63a49
+Author: gzwongkk <gzwongkk@gmail.com>
+Date:   Sun Aug 7 01:06:18 2022 +0800
+
+    Support different colors for different kinds of publications in publication list (#797)
+
+commit 58391d1dbec637a0ee2427e81f86e6844c909910
+Author: gzwongkk <gzwongkk@gmail.com>
+Date:   Sun Aug 7 00:55:39 2022 +0800
+
+    Fix commas in author list (#770)
+
+commit 2186bddc0c4bb6707017db7cc94b074239343a7a
+Author: Ioannis Mavromatis <44159802+ioannismavromatis@users.noreply.github.com>
+Date:   Sat Aug 6 17:06:49 2022 +0100
+
+    Add website (#802)
+
+commit 4817639f3084f317455433ef033f9c3f05330589
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Thu Jul 28 21:54:58 2022 +0530
+
+    Fix title spaces and a few links (#789)
+    
+    * fix title
+    
+    * fix a few links
+    
+    * add line
+
+commit 96e794f257c5a240436b20edb2884854f57dddeb
+Author: johanneshoerner <110042110+johanneshoerner@users.noreply.github.com>
+Date:   Thu Jul 28 16:06:54 2022 +0200
+
+    Added my webpage to the list (#788)
+    
+    Added my webpage to the list.
+
+commit 2fadee6afbb0f086c48b9c308a613a43d98c672d
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Tue Jul 26 08:59:57 2022 +0530
+
+    Adds support for GA4 Google Analytics (#727)
+    
+    * Update `analytics.html`
+    
+    * Update `config.yml`
+    
+    * Update
+    
+    * Update
+
+commit f618757b63cf2c41ff1c26953e8c49c94c2e53f7
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 24 22:45:39 2022 +0530
+
+    Adds support for repositories (#760)
+    
+    * Add support for github repo cards
+    
+    * add support for dark theme
+    
+    * Add support for custom theme
+    
+    * repositories
+    
+    * fix
+    
+    * make it simpler
+    
+    * spcaing
+    
+    * responsive fix
+    
+    * adds support for usernames
+    
+    * make it modular
+    
+    * fix
+    
+    * show icons
+    
+    * cache_seconds
+    
+    * fix
+    
+    * Revert "cache_seconds"
+    
+    This reverts commit a9dd4d5d43d212676e1c1dba8ec8086c7fdb7cd7.
+    
+    * add last line
+    
+    * fix
+    
+    * github only
+    
+    * fix
+    
+    * Add instructions
+    
+    * Add `README.md` instructions
+    
+    * Add `nav_order`
+
+commit 99b14c436ffe674a9670b901aeebdc4897625de3
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Jul 18 05:02:44 2022 +0430
+
+    Add Tags for Docker Images (#754)
+
+commit b6ea0d01ff43ef05bbca107c6c90283925c328a3
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Jul 18 04:41:27 2022 +0430
+
+    Skip Docker Image on Forked Images (#767)
+
+commit 1ac9b7c3b2c8c0d55b2a3516fc1d8f03489f889e
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Tue Jul 12 11:43:58 2022 +0530
+
+    Optimize image qualities and a fix (#762)
+    
+    * blog tag-list
+    
+    * optimize publication preview
+    
+    * better compression
+    
+    * optimize jpg project images
+    
+    * reduce sizes of project images
+    
+    * fix
+
+commit 24a5084cb133b9e444f9049f979ee98d6a7bfac2
+Author: Congcong Li <20706332+lufficc@users.noreply.github.com>
+Date:   Mon Jul 11 14:38:58 2022 +0800
+
+    fix more authors bug (#758)
+    
+    * fix more authors bug
+    
+    * fix
+    
+    * add preview
+    
+    Co-authored-by: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+
+commit edd9fb70796752028125fe0c67c0d75dba1c82e4
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 10 22:13:25 2022 +0530
+
+    Bootstrap js SRI fix (#757)
+
+commit 7afa104f500f5847b4180a1c2f243b7357a0e389
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 10 21:51:39 2022 +0530
+
+    Include bootstrap bundle (#756)
+
+commit 26e41e77c8dbe19f65af82deeba9f4d83c2324ad
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 10 21:26:36 2022 +0530
+
+    Fix scripts (#755)
+
+commit 07330b9bf9cd3d8fa017d13f67076af00710372d
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 10 10:34:16 2022 +0530
+
+    Adds support `max_author_limit` (#732)
+    
+    * Adds support max author limit
+    
+    * typo
+    
+    * fix
+    
+    * display all authors by default
+    
+    * Added an example
+    
+    * Added 'and' before the last author
+    
+    * Improve hiding/showing more authors
+    
+    * Add title text
+    
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 7c71285bc3f8882b5408b22919d2dc8dae6c22c6
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 10 00:54:26 2022 -0400
+
+    Update README.md
+
+commit b3dac1faad15ebe4c4bf91c7bc27856b82bbcf66
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 10 00:53:53 2022 -0400
+
+    Update README.md
+
+commit 09c8781eb69ac676443c6f07a2109e29ffbf3747
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 10 00:48:21 2022 -0400
+
+    Update README.md
+
+commit c7736d6abc0a22a4eb99bb7ec76a133f371973a1
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sun Jul 10 00:21:39 2022 -0400
+
+    docs: add pourmand1376 as a contributor for code (#753)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+commit 0e9d3a44f930c875eca3ffdace02a9b22d1d636e
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Jul 10 08:49:05 2022 +0430
+
+    Add Dockerfile for easy installation on local machine  (#532)
+
+commit c09d3ee2eda25cf834fee91a8b831612fc9cfe09
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sun Jul 10 00:10:30 2022 -0400
+
+    docs: add rohandebsarkar as a contributor for code (#752)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: update .all-contributorsrc [skip ci]
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+
+commit cb3ea9c591bfe0a34f357af092d90ab28460cb1d
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sun Jul 10 00:04:19 2022 -0400
+
+    docs: add alshedivat as a contributor for design, code (#751)
+    
+    * docs: update README.md [skip ci]
+    
+    * docs: create .all-contributorsrc [skip ci]
+    
+    * Update .all-contributorsrc
+    
+    * Update README.md
+    
+    * Update .all-contributorsrc
+    
+    Co-authored-by: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+
+commit 9d7180417e37d35186cc5c1de270ee90fd6614b5
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sat Jul 9 18:08:11 2022 +0530
+
+    Better bundler caching for GitHub Actions (#750)
+    
+    * Better caching for GitHub Actions
+    
+    * Update `actions/checkout` to `v3`
+
+commit dee922531d397d77f8d8543f6bc965694827eb69
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jul 8 21:41:36 2022 +0530
+
+    Fix responsive image (#748)
+    
+    * fix
+    
+    * base url
+    
+    * Revert "base url"
+    
+    This reverts commit 2e81d32ec22f8a9ec53b7ad216679d4cfa88456c.
+    
+    * fix
+
+commit 683fe65aab3545be053fa14177dbe82e64a1d35c
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jul 8 13:18:37 2022 +0530
+
+    Fix Previous PR (#745) (#746)
+
+commit 3672e8d2b1ae19db2bc246b2aecc0931356a753d
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jul 8 13:09:31 2022 +0530
+
+    Change imagemagick optional to depend on one variable (#745)
+
+commit 510587c34f80509bfe8c95cdb95c7501e866b6ca
+Author: Manan Dey <manandey1@gmail.com>
+Date:   Fri Jul 8 10:13:34 2022 +0530
+
+    add star (#744)
+
+commit a27cf93331b72ab3c0c1035b9e6adb7a9e5bcd48
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 3 22:51:39 2022 -0700
+
+    Fix typos in _layouts/about.html (#739)
+
+commit 4a53a32b2ad4af858e7e6e73c07a4029e9fa604b
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 3 09:18:19 2022 +0530
+
+    Adds support for tag-list (#734)
+    
+    * Adds support for tag-list
+    
+    * Update _sass/_base.scss
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Made tags optional
+    
+    * Responsive deign for tag-list
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 9411786b5dc3282fbdde5cb359d1b2fa81c59f32
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jul 3 08:56:11 2022 +0530
+
+    Adds support for preview images for publications (#730)
+    
+    * Adds support for publication teaser
+    
+    * Adds an example for publication teaser
+    
+    * Update example publication teaser
+    
+    * Update size
+    
+    * change `teaser` to `preview`
+    
+    * Update _config.yml
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _sass/_base.scss
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _sass/_base.scss
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 6b61236d37c5aef278b43ecefb025fad3aa6f46d
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sat Jul 2 07:07:54 2022 +0530
+
+    Adds support for bypassing GitHub Pages Jekyll processing (#738)
+
+commit 7c742c53ef6d97b30d13f6763e315124f6e41150
+Author: rohandebsarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jul 1 18:50:49 2022 +0530
+
+    Update Lighthouse PageSpeed Insights
+
+commit 032f0e62bafa79fe4037adf6a2acfc016dc2db02
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Jun 27 09:37:28 2022 +0530
+
+    Adds vertical scrollbar to news (#729)
+
+commit bcd43a18fe67da84193fb6df21b0f27f993fe5f8
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jun 26 13:50:45 2022 +0530
+
+    Support for cicular image (#728)
+
+commit bb5ef8fafb9c50467933079d5b5e3594aa7ede29
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jun 26 05:17:01 2022 +0530
+
+    Minor changes and fixes (#726)
+
+commit 6d66ae8b43b0677ac89587293042bf6ce7baf3e3
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sun Jun 26 04:28:59 2022 +0530
+
+    Add support for CV (#628)
+
+commit 4e460ee494c7f4de398c0286a25e192075d11752
+Author: Rohan Deb Sarkar <rohandebsarkar+git@gmail.com>
+Date:   Wed Jun 8 10:41:27 2022 +0530
+
+    Fix theme (#697)
+    
+    * fix theme
+    
+    * fix theme
+    
+    Co-authored-by: rohandebsarkar <rohandebsarkar@gmail.com>
+
+commit f7274c0dab0aed6b0b1c0d7534779546478d1910
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon May 16 07:12:41 2022 +0530
+
+    Minor fixes for previous PR #668 (#672)
+
+commit 8db7daf35681d24b6597cd53f870ac81423b64ee
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri May 13 00:37:04 2022 +0530
+
+    Add support for `nav_order` and Fix hardcoded navbar titles (#664)
+
+commit 503bfc235a7d9b5f09252e1d39d2d2946500b9b7
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri May 13 00:16:01 2022 +0530
+
+    Add `jekyll-minifier` (#668)
+    
+    * Remove obsolete plugins
+    
+    * Add `jekyll-minifier`
+    
+    * Add `JEKYLL_ENV=production`
+
+commit e40bc98f47908c10c68df108afff134c8e620374
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Thu May 12 23:10:21 2022 +0530
+
+    Delete `travis.yml` (#665)
+
+commit 49c339a0624a079488ac03b2a29fc47f4b893ea6
+Author: Carolina Carreira <carolinamcarreira@gmail.com>
+Date:   Thu May 12 18:39:20 2022 +0100
+
+    Add a new star (#667)
+    
+    Add a start to list of academic personal webpages
+
+commit c4e170a545daa8d75a16735e5f8987729383b736
+Author: Tønnes Nygaard <tonnes.nygaard@gmail.com>
+Date:   Sun May 1 17:38:39 2022 +0200
+
+    Added bibtex filter to hide custom bibtex keywords from bib file output (#652)
+
+commit e5c1012aebeafb349979bdc68d6cdbc07a2c2c4b
+Author: Tønnes Nygaard <tonnes.nygaard@gmail.com>
+Date:   Sun May 1 17:38:28 2022 +0200
+
+    Added documentation on publication buttons (#651)
+    
+    * Added documentation on publication buttons
+    
+    * Added missing </details>
+
+commit 42abefc3f1f1aa52204facecb97b661d9f05f943
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Apr 24 10:09:21 2022 -0400
+
+    Add support for external blog posts (#647)
+    
+    * Add support for external blog posts
+    
+    * Cosmetic fixes
+
+commit f7dd7f61c6e1318a3b0e6390f1376a7516bd6c2c
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Apr 3 09:55:12 2022 -0700
+
+    Call bash on bin/deploy in github actions (#625)
+
+commit a6174a6e1397372b97e6d310b792778c14ab6faa
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Apr 3 06:05:19 2022 -0700
+
+    Fix table colors in dark mode (#624)
+
+commit a2f7f05bf354c256025d90e80babf2c1be49f918
+Author: Guillaume Dalle <22795598+gdalle@users.noreply.github.com>
+Date:   Sun Apr 3 00:23:00 2022 +0200
+
+    Empty entrytype if not article or inproceedings (#578)
+    
+    For bibtex entries that are neither articles nor proceedings, the value `entrytype` carries over from the previous entry in the loop, leading to incorrect displays. This PR fixes that.
+
+commit d05ef481a913023157c62612708036b261ca4c12
+Author: Tirtharaj Dash <dashtirtharaj@gmail.com>
+Date:   Mon Mar 28 05:53:29 2022 +0530
+
+    Added a star (#617)
+
+commit ce26339d044c303911c10bdbb0aa6de5027fb2b1
+Author: Amala Wilson <amalachirayil@gmail.com>
+Date:   Sat Mar 12 01:28:48 2022 -0500
+
+    Added amalawilson.com to the list of user samples (#595)
+
+commit 55ca811a9ab20c1c6c99b00952fcdb3587b1f0a3
+Author: Kun Wu <tonywukun@qq.com>
+Date:   Tue Mar 1 23:19:13 2022 -0600
+
+    mention K-Wu personal website in readme (#575)
+
+commit 53eef90be219b7f24cf0bd3c28913371aab89c40
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Sun Feb 20 08:28:52 2022 -0800
+
+    Fix #565
+
+commit 07a2e0577e406cd880c3d2a7a61f1f0ef7b6577f
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sun Feb 20 08:19:47 2022 +0330
+
+    Add custom favicon if needed (#386)
+
+commit c37abc44bcd82efd1abd837e379b48e75572ebb5
+Author: Jiashu Xu <jiashuxu@usc.edu>
+Date:   Sat Feb 19 19:41:13 2022 -0800
+
+    enable blog to redirect to asset (#550)
+
+commit 77b60dc39556e41d701cd53ac92ef07a92f42468
+Author: Viraj Thakkar <43007623+veedata@users.noreply.github.com>
+Date:   Sun Feb 20 07:16:45 2022 +0530
+
+    Theme and responsiveness fixes (#509)
+    
+    * Dark themed cards
+    
+    * Responsiveness fixes
+    
+    * added dark stylesheet option
+    
+    * highlight theme toggle
+    
+    * added highlight function
+    
+    * added highlight themes to assets/css
+    
+    * offline highlight implementation
+    
+    * Fixes for masonry
+    
+    * Revert "added highlight themes to assets/css"
+    
+    This reverts commit ee7cb7675671430697f3a38bd5a56405179e6dd9.
+    
+    * Update `code syntax highlighting` to use jsdelivr CDN
+    
+    * Project card responsiveness fixes
+    
+    * added personal website to readme
+    
+    veedata.github.io
+    
+    * Reverted responsiveness chnages
+    
+    * Minor adjustments
+    
+    Co-authored-by: rohandebsarkar <rohandebsarkar@gmail.com>
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+
+commit a50364ce933c80b7ace3fe9e84877fb4c7fad2b1
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Feb 13 20:07:29 2022 -0800
+
+    Fix a small bug in news (#560)
+
+commit d0713468950ed3906d504ce1651a1f5f5f0747e4
+Author: yyang768osu <yyang.ohiostate@gmail.com>
+Date:   Sun Feb 13 19:53:22 2022 -0800
+
+    Add Yang's webpage (#559)
+
+commit 13e6ceb1c7ccd4cb6d4104950d90b1cb1f20d0ba
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Feb 14 07:22:51 2022 +0330
+
+    Layout Spacing problem when footer_fixed: false (#554)
+    
+    * fix space
+    
+    * Minor adjustments
+    
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+
+commit 16a1a779742acbe9537aa24975c4c9a0ba42a2ea
+Author: Vanshaj Kerni <vkerni@ph.iitr.ac.in>
+Date:   Mon Jan 31 05:11:16 2022 +0530
+
+    Change -webkit-transition to transition-property (#540)
+    
+    As per https://developer.mozilla.org/en-US/docs/Web/CSS/@media/-webkit-transition, webkit-transition feature is no longer recommended. Though some browsers might still support it, it may have already been removed from the relevant web standards, may be in the process of being dropped, or may only be kept for compatibility purposes.
+
+commit d4886b068e678bc2a0490d6698be0ef6750a68b2
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Jan 31 05:03:29 2022 +0530
+
+    Update README.md and LICENSE year (#544)
+
+commit 4b55a40a2339b60b85070585d21898c11aca4c56
+Author: Jack Lloyd-Walters <skiy@outlook.com>
+Date:   Sun Jan 30 23:32:28 2022 +0000
+
+    Add my own site to the readme (#545)
+
+commit c3ac2b49451b6a03aec3bae14b6eb95a7e55f5ca
+Author: Scott Lee Chua <51027688+scottleechua@users.noreply.github.com>
+Date:   Fri Jan 21 12:26:10 2022 +0800
+
+    Add my personal website to Readme examples (#535)
+
+commit f9368118f33f8830de9c7db25deaef47f2a693be
+Author: Ali Kuwajerwala <aliqk1603@gmail.com>
+Date:   Thu Jan 20 12:05:25 2022 -0500
+
+    fixed title for og preview, otherwise its "blank" (#531)
+    
+    * fixed title for og preview, otherwise its "blank"
+    
+    * Update _includes/metadata.html
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 3a7c57bac02fe1264af9ea74b89c0fe9fab87f59
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Thu Jan 20 20:31:37 2022 +0330
+
+    Add website to README.md (#533)
+
+commit 44079da9da6adba311ffe4f34f02ef9b64787b7a
+Author: Ali Kuwajerwala <aliqk1603@gmail.com>
+Date:   Mon Jan 17 19:46:18 2022 -0500
+
+    added my website to readme examples (#530)
+
+commit 0c2e6574c9bcf500d445aec456ba57739b17e713
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jan 14 04:20:50 2022 +0530
+
+    Update library versions (bootstap, jquery, fontawesome, academicicons, masonry, mdbootstrap) (#521)
+
+commit 0b801ac762fd77428770710224fb3ce7f96d7462
+Author: Jun-Liang Lin <82939287+junliang-lin@users.noreply.github.com>
+Date:   Thu Jan 13 17:48:22 2022 -0500
+
+    Fix distill collapsible Navbar (#524)
+
+commit dcce13b442134bbd544581d803cc3372d777c5ab
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Fri Jan 14 04:18:12 2022 +0530
+
+    Minor fixes (#522)
+
+commit b715177d132db9bacdbf10bedb515010d2fb09eb
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Jan 3 08:50:53 2022 -0500
+
+    Correctly slugify distill TOC (#519)
+    
+    * Correctly slugify distill TOC
+    
+    * Add special character to demo distill post's TOC
+
+commit 17329fca3a91a19bffe7532b5ba3ff5696517f1f
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Dec 31 19:47:19 2021 +0300
+
+    Fix distill dark mode again (#517)
+
+commit b950fc3fdb8ee689b409442b135cf7c755d3ce7d
+Author: José M. Requena Plens <joreple@upv.es>
+Date:   Fri Dec 31 17:46:42 2021 +0100
+
+    Better SEO, OpenGraph, schema.org and clean generated code (#481)
+
+commit 7f532552e4635682b6700cf7a5283afbd2c3b676
+Author: Julian Lehrer <jmlehrer@ucsc.edu>
+Date:   Thu Dec 23 04:36:48 2021 -0800
+
+    Update 2015-10-20-math.md (#514)
+    
+    Typo
+
+commit 4d2812913cbea9ba3edd6df781c5eca6040466e0
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Wed Dec 22 11:57:28 2021 +0330
+
+    Delete assets/resized directory from GIT (#440)
+
+commit 0e3cff9137991bde1c1c4f8451d1dfee0c4b95b2
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Wed Dec 22 13:43:52 2021 +0530
+
+    Use WebP responsive images (#498)
+    
+    This PR replaces the jekyll-responsive-images with jekyll-imagemagick for responsive WebP images.
+    
+    WebP images are much smaller compared to PNG and JPEG, faster to load and most of the modern browsers recommend it.
+    
+    More information about WebP images: https://developers.google.com/speed/webp
+
+commit 1e4e147d8fa346804bc36f71ca546185300c7576
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Thu Nov 25 21:48:52 2021 -0500
+
+    Switch to uing <picture> for responsive images
+
+commit d574787abd9aa2201820c9da6d27379f1b2d8b85
+Author: Nipuna Weerasekara <w.nipuna@gmail.com>
+Date:   Fri Nov 26 07:11:27 2021 +0530
+
+    Add a website to list of academics websites (#473)
+
+commit 8de1ad4dee3516f6665d5430aed45bb36440553e
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Thu Nov 25 20:36:47 2021 -0500
+
+    Fix a small bug in _includes/responsive_img.html
+    
+    Correctly fixes the issue mentioned in #471.
+
+commit a0cfbbd1d3026977d787e5c58cd55469819ebddf
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Nov 21 17:18:23 2021 -0500
+
+    Add TOC to distill blog posts (#470)
+
+commit 7f10dc3ec900f43b178c8ac250e9065c0c27f61b
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Nov 22 01:35:46 2021 +0530
+
+    Lighthouse enhancements (#445)
+
+commit b45b2475018cda946a1ea825ef408118db504540
+Author: Xiaochen Zhu <42903201+zhxchd@users.noreply.github.com>
+Date:   Mon Nov 22 02:48:43 2021 +0800
+
+    Fix broken read_time in blog/index.html (#469)
+
+commit 5612275e48e68e44835f32a2402bd8c61f69b887
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Nov 21 11:55:39 2021 -0500
+
+    Revert "remove extra space in profile image path (#451)" (#468)
+    
+    This reverts commit 0a8bfb4f0f59bd8551979f74241d731a77229b48.
+
+commit 0a8bfb4f0f59bd8551979f74241d731a77229b48
+Author: Karim de Fombelle <karim.defombelle@gmail.com>
+Date:   Thu Nov 11 01:58:16 2021 +0800
+
+    remove extra space in profile image path (#451)
+
+commit e95f421230161c56fa93c8c946ad9511759c67b1
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Nov 9 09:44:26 2021 -0500
+
+    Update README.md
+
+commit 47aea315a745aa1d6ad0e59e7827151f179d0a47
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Oct 30 19:58:02 2021 -0400
+
+    Update README.md
+
+commit d500e084f56de2536db304d029beb194a695c28f
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Sat Oct 30 19:53:39 2021 -0400
+
+    Remove theming dependence on jquery
+
+commit 032ff4845cd6f4993bd0174c914c241aae534527
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Oct 30 17:05:36 2021 -0400
+
+    Add best practices info to README
+
+commit fe3339d05b30f06c59785542fa2dff08cb29a0e3
+Author: Edsuns <edsuns@qq.com>
+Date:   Sun Oct 31 04:59:04 2021 +0800
+
+    Optimize dark theme (#431)
+    
+    * Optimize dark theme
+    
+    * Fix-up
+    
+    * Minor fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 1c52125635266c6561a07b065b4430911b9a4811
+Author: Dinesh Natesan <AbstractGeek@users.noreply.github.com>
+Date:   Sun Oct 31 02:28:42 2021 +0530
+
+    Added Jekyll-Archives (for tags, categories) and Jekyll site-map (#346)
+    
+    * Add webpage to academic pages list
+    
+    * adding panelbear analytics
+    
+    * added categories for projects and horizontal mode display for projects
+    
+    * rewrote the code to ensure it works properly with current project definitions
+    
+    * Style adjustments
+    
+    * added blockquote format, jekyll-archives, tag, year archive pages, and reading time.
+    
+    * added archive meta to blog posts list and individual posts.
+    
+    * added sitemap
+    
+    * stylistic modifications to jekyll-archive addition
+    
+    * Minor fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 174024e76cb1bfe6ad442990184f82bc8a87a5ae
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Oct 30 16:26:55 2021 -0400
+
+    Add support for responsive images (#439)
+
+commit 9c36be1320e770ce81a0e8671a74a254d24ac2be
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sat Oct 30 23:56:37 2021 +0330
+
+    Optimize Website Load Time (#435)
+    
+    * Place js files after body tag
+    
+    * Add Analytics to the end of script
+    
+    * Minor nits and fixes
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 696894549b952437465ed4305aec89a03a3b203a
+Author: José M. Requena Plens <joreple@upv.es>
+Date:   Sat Oct 30 03:31:46 2021 +0200
+
+    Update deploy.yml (#436)
+    
+    ‘action’ is deprecated, change to ‘ruby’
+    https://github.com/ruby/setup-ruby
+
+commit ae9ecf29e017096388c167e4eab4800eab84486e
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Fri Oct 22 19:15:37 2021 +0330
+
+    Adding month to publication section (#433)
+
+commit ed1a9eeacce507ff4e8cad0a559548a09df6a921
+Author: Steven Rick <srick@eng.ucsd.edu>
+Date:   Thu Oct 21 17:02:37 2021 -0700
+
+    adds color transition support to li elements (#434)
+
+commit 1b64518c65e901c0bca285a92b020e2e7fd4bfbb
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Wed Oct 13 09:40:39 2021 -0400
+
+    Update README.md
+
+commit 533bed5c080802512e812c9fb769dcdf20e052a9
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Sat Oct 9 06:21:38 2021 +0530
+
+    Add RSS icon to social.html (#418)
+    
+    * Add rss icon
+    
+    * Add a blank line to make sure rss icon is always at the last
+
+commit 1d974faad964675ea22e99a08f7d7d6dd7243eca
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Oct 7 11:46:18 2021 -0400
+
+    Update README.md
+
+commit eea0e5fd239fe6dcd81a9dd1d85f4b2cc41a5551
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Oct 5 10:05:21 2021 -0400
+
+    Update README.md
+
+commit 52fcd07cf13e665e6d6c3849f5c42ca852497d31
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Oct 3 21:44:24 2021 -0400
+
+    Update README.md
+
+commit cd4b382799b87d70c59325f44c0f77f375525d92
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Oct 3 18:26:29 2021 -0700
+
+    Add jekyll-diagrams (#333)
+    
+    * Add mermaid support via jekyll-diagrams
+    
+    * Add mermaid install to deploy workflow
+
+commit 6b0bf878460d966d5e8f4f0425ce8aa9ce1c78da
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Mon Oct 4 04:46:05 2021 +0330
+
+    add jekyll target blank plugin (#404)
+    
+    * add jekyll target blank
+    
+    * Remove manual target blank from everywhere
+    
+    * Update README.md
+    
+    * Set ruby version to 3.0.2 in the deploy script
+    
+    Co-authored-by: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+
+commit 3ca88834a2c334f0b44184bae42750a5e1cf3910
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Mon Oct 4 05:36:46 2021 +0530
+
+    Add 404.html (#412)
+
+commit ce15b088f976fb6b91806d3092d363edff345742
+Author: Amir Pourmand <pourmand1376@gmail.com>
+Date:   Sat Sep 25 22:23:53 2021 +0330
+
+    add stackoverflow id (#400)
+
+commit 895063a6251cf8ec553064748db68398456a800f
+Author: Maik Wöhl <maik.woehl@googlemail.com>
+Date:   Wed Sep 8 06:48:20 2021 +0200
+
+    Add 'main' branch for newer GitHub repositories (#389)
+
+commit 0885f49f6bffa3e57e8e96242fcbd9a682f3b108
+Author: Sebastian Daza <sebastian.daza@gmail.com>
+Date:   Wed Sep 8 06:25:26 2021 +0200
+
+    add website (#383)
+
+commit b3237675354edb7af942ef667c09a2f21e9d80e8
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Aug 27 08:59:34 2021 -0400
+
+    Revert jekyll-scholar bibtex filters (#381)
+    
+    * Revert "Fix latex rendering issue in the bibliography entries (#358)"
+    
+    This reverts commit e328dc6abea53a3cb5cd9cf146766d2abe73cfd8.
+    
+    * Update mathjax version to 3.2.0
+    
+    * Add bibtex_filters explicitly to _config.yml
+
+commit 04f526db5d303aa3ce8c5e62089b7b6a0862f6a9
+Author: Julian Streyczek <82290284+JulianStreyczek@users.noreply.github.com>
+Date:   Tue Aug 17 13:49:53 2021 +0200
+
+    minor updates to CONTRIBUTING and LICENSE, add website (#365)
+
+commit 5a655959189e13a49f3ad7e2f7af28002cbc44ca
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Aug 16 13:16:26 2021 -0400
+
+    Revert "Change gitcdn link (#234)" (#364)
+    
+    This reverts commit 0e4df831af177408965e18d49343473038533f3d.
+
+commit f4c01acac710f8b4d9dea317d12b212a406552d2
+Author: Riddhiman Adib <adib2149@gmail.com>
+Date:   Sat Aug 7 15:51:48 2021 -0500
+
+    adds submenu in navigation bar. (fixes issue #159) (#334)
+    
+    * adds submenu in navigation bar. (fixes issue #159)
+    
+    * Updated scss files to change hover animations on dropdown submenus, on both dark mode and light mode
+
+commit e328dc6abea53a3cb5cd9cf146766d2abe73cfd8
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Jul 31 16:05:30 2021 -0400
+
+    Fix latex rendering issue in the bibliography entries (#358)
+
+commit 664220e5f82d96b1e7210fcae3a4020856d1200c
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Jul 31 12:35:05 2021 -0400
+
+    Update bug_report.md
+
+commit 5694d43016f265eba003935407d97bc07fe740c5
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 25 11:30:58 2021 -0400
+
+    Update _config.yml
+
+commit 60fc64b924e03332cf2a73ddf47f19aa12506d4a
+Author: Rohan Deb Sarkar <rohandebsarkar@gmail.com>
+Date:   Wed Jul 21 18:41:03 2021 +0530
+
+    Adds support for sitemap and robots.txt (#337)
+    
+    * Adds support for sitemap
+    
+    * Adds support for robots.txt
+
+commit 8fe464d30a610ba89219d8de32fc218c1bb713f6
+Author: Neeraj Gangwar <553989+neerajgangwar@users.noreply.github.com>
+Date:   Sun Jul 18 20:57:16 2021 +0530
+
+    Correct the documentation for personal/organization and manual deployments (#351)
+
+commit 4d5f2dccffdec0f88fa80de5b9ba8859f64dad86
+Author: Neeraj Gangwar <553989+neerajgangwar@users.noreply.github.com>
+Date:   Sat Jul 17 22:25:43 2021 +0530
+
+    Use master for source code for personal/organization webpages and update the document (#344)
+    
+    Co-authored-by: Neeraj Gangwar <neeraj.gangwar@myntra.com>
+
+commit 89efedcd57e24398acfc683fe7e5fd16f48c8c3d
+Author: Christoph Junghans <junghans@lanl.gov>
+Date:   Tue Jul 6 10:43:13 2021 -0600
+
+    _config.yml: add dblp_url (#336)
+
+commit 63f278ac927293b0fbf82d268a114d4df209953e
+Author: Maruan Al-Shedivat <maruan@genesistherapeutics.ai>
+Date:   Mon Jul 5 11:28:30 2021 -0700
+
+    Minor stylistic fixes.
+
+commit 9c8bd1a9458161075ddcb9bf93c27a95f233639a
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Jul 5 14:18:41 2021 -0400
+
+    Correctly update medium-zoom background when switching theme (#332)
+
+commit 495c4aa8a0cda53125388db9056c01c9b6f3de02
+Author: Dag7 <dag7@protonmail.com>
+Date:   Mon Jul 5 19:27:59 2021 +0200
+
+    Initial Atom (RSS-like) feed support (#284)
+    
+    * initial Atom (RSS-like) feed support
+    
+    * Update _config.yml
+
+commit a5508c734b2a9a3a3eb2597e317f5d741026e6e6
+Author: Ivan Puhachov <49251289+ivanpuhachov@users.noreply.github.com>
+Date:   Sun Jul 4 20:27:39 2021 -0400
+
+    Fix distill darkmode (#299)
+    
+    * updating distill post to show fixes done
+    
+    * fix for colors in numerated lists and tables
+    
+    * fixing blockquotes
+    
+    * fixing colors in math, footnotes, references, hover boxes, code highlights
+    
+    * Add example distill overrides
+    
+    * reverted back changes in distill template.v2.js
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 585a188b248f5bcbdbcd219603388a75b0a52378
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jul 4 20:22:43 2021 -0400
+
+    Fix the blog page title (#331)
+
+commit 4465402a69f2aa56a7cd1ebeb6ad1235aa1e12a7
+Author: nphair <nickphair@gmail.com>
+Date:   Fri Jun 11 11:35:25 2021 -0400
+
+    Fixes #304. Fix bad horizontal template include (#305)
+
+commit 1318c805fe4353684536f6161c68ae9b85f5e426
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun May 30 19:38:24 2021 -0400
+
+    Adds support for image zoom (#296)
+    
+    * Add image zoom
+    
+    * Minor improvements
+
+commit 016a01b08f96f798e3cdde7c49b009e728d3a174
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun May 30 18:46:56 2021 -0400
+
+    Fix project page colors (#295)
+
+commit f3efec5d6dfb082961233d195756a91d6f784173
+Author: Afonso Raposo <afonsocraposo@gmail.com>
+Date:   Sun May 30 21:28:31 2021 +0100
+
+    Added BibTeX hidden block (#293)
+    
+    * Added BibTeX hidden block
+    
+    * Minor adjustments
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 3051f8a628ac5dd2edf34aa388a9c1ff6f104ce6
+Author: Patrick Totzke <patricktotzke@gmail.com>
+Date:   Mon May 17 02:43:02 2021 +0100
+
+    add dblp to social links (#270)
+
+commit 50b6196acddaad786fe4be050328e60cc92f3045
+Author: Dag7 <dag7@protonmail.com>
+Date:   Mon May 17 03:28:06 2021 +0200
+
+    Fix for images (#271)
+    
+    When you fork this directory in your local fork, if you remove images from assets, the README file will be broken.
+    This should fix the README problem, ensuring that images are always up-to-date from the assets folder of the original al-folio folder.
+
+commit 305102c744b9eaf7be1e2503c9db0488f9092f9e
+Author: Dag7 <dag7@protonmail.com>
+Date:   Sun May 2 17:11:57 2021 +0200
+
+    Added proper instructions in personal webpages (#261)
+    
+    * Added proper instructions in personal webpages
+    
+    Changed "For personal and organization webpages" part, tried to be as concise as possible, in accordance with: https://github.com/alshedivat/al-folio/issues/209#issuecomment-798849211
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 42bda1064df2133dda9f2c7e8ecae9a1676bb40b
+Author: Daniel Sokolowski <github@d.sokolowski.org>
+Date:   Sun May 2 17:07:08 2021 +0200
+
+    Added the Programming Group at HSG to labs (#254)
+
+commit e27fe2a021b4089cdab17c430a3ddfa53060aa79
+Author: Dinesh Natesan <AbstractGeek@users.noreply.github.com>
+Date:   Mon Apr 12 00:04:15 2021 +0530
+
+    Categories for projects and an optional horizontal project card style (#224)
+    
+    * Add webpage to academic pages list
+    
+    * adding panelbear analytics
+    
+    * added categories for projects and horizontal mode display for projects
+    
+    * rewrote the code to ensure it works properly with current project definitions
+    
+    * Style adjustments
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 0e4df831af177408965e18d49343473038533f3d
+Author: jkmacc-LANL <jkmacc@lanl.gov>
+Date:   Fri Apr 2 20:19:30 2021 -0600
+
+    Change gitcdn link (#234)
+    
+    gitcdn.link was quite slow.  Use alternate link at gitcdn.xyz.
+
+commit 4849b5a8dcd938cd098a07cc15d09911e1a2f70d
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Mon Mar 29 08:49:42 2021 -0700
+
+    Issue 183 (#192)
+    
+    * Issue 183
+    
+    * CSS fixes for :
+      * Citations
+      * Footer
+      * Project Cards
+      * Code background
+    
+    * Fix dark mode edge cases (mainly with distill)
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 11691dba3d7a36120f2470aded36c79a67eba02e
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Mar 28 18:51:49 2021 -0400
+
+    Update Gemfile (#230)
+
+commit f5d41dde62fbfecf94e1c4bf7d5d7f23edd3848d
+Author: Sean Quinn <seanpquinn@users.noreply.github.com>
+Date:   Sun Mar 28 15:44:26 2021 -0700
+
+    Add gitlab to social (#229)
+    
+    * Add gitlab to social
+    
+    * Add gitlab to social integration
+
+commit 199b69300de2e50ecf94fd955c639861e5fe718a
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Mar 14 13:04:01 2021 -0400
+
+    Update stale.yml
+
+commit 09f6b3ac3268c1394f764bf6c8a4c5c77fbbe723
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Mar 14 12:54:04 2021 -0400
+
+    Create stale.yml
+
+commit f2156d1c7b00c7f6720fa97631e10abba8463d9d
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Mar 11 16:30:31 2021 -0500
+
+    Switch favicon to emoji (#217)
+
+commit 83daa026f2434d0fb38d9d09c4a79eb2e9bdf9e8
+Author: Yiru Chen <yiru.chen@columbia.edu>
+Date:   Thu Mar 11 13:04:04 2021 -0500
+
+    Update README.md (#216)
+
+commit e65c12bf5d44f2b7c46d3e77289057fe55a5e145
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Mar 4 15:21:47 2021 -0500
+
+    Update README.md
+
+commit 11ce2d2268ff4dca9c1fb7c9e8baae8ff116688d
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Mar 4 10:19:08 2021 -0500
+
+    Update README.md
+
+commit 218291bceb7d76d0331625bb6d385ba43e2dd314
+Author: Roger Iyengar <ri@rogeriyengar.com>
+Date:   Thu Mar 4 09:54:38 2021 -0500
+
+    Fix titles and headings (#204)
+    
+    * Update head.html
+    
+    * Update header.html
+    
+    * Update head.html
+    
+    * Update header.html
+    
+    * Update about.html
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 9229f7d881d215969378fdc287fdad51936037f9
+Author: Roger Iyengar <ri@rogeriyengar.com>
+Date:   Mon Feb 22 08:35:01 2021 -0500
+
+    Add favicon (#205)
+    
+    * Add favicon
+    
+    * Add files via upload
+
+commit d3082bdc99d7481121d0dc2983f3d06df65abfb2
+Author: George Oikonomou <geo-gh@spd.gr>
+Date:   Tue Feb 9 17:06:43 2021 +0000
+
+    Improve support for deploying in out-of-tree locations (#81)
+    
+    * Improve support for deploying in out-of-tree locations
+    
+    * Document how to deploy in an out-of-tree location
+    
+    * Add vendor to excludes in _config.yml
+    
+    * Update README.md
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit 5c6697bcfc987b36283f8455d706e5ba07116419
+Author: Thiago <tdsimao@users.noreply.github.com>
+Date:   Mon Feb 8 16:09:09 2021 +0100
+
+    fix distill pubiblication date (#194)
+
+commit edf1425ed4a6c3eef7293585fb15dc79c6afe960
+Author: Roger Iyengar <ri@rogeriyengar.com>
+Date:   Mon Feb 1 15:53:17 2021 -0500
+
+    Add a link to CMU Distributed Systems course page (#193)
+
+commit c437bf55bbe1c7a5ac18693aa3666a67ee2ecb58
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Jan 15 00:29:22 2021 -0500
+
+    Set ruby version to 2.7 in the deploy workflow
+
+commit 8680c4b9af9ac8d1e0fc7aae5fcf4c42fcb4c7d4
+Author: Christoph Junghans <junghans@lanl.gov>
+Date:   Thu Jan 14 22:27:58 2021 -0700
+
+    add support for impressum page (#172)
+    
+    * add support for impressum page
+    
+    * Update _config.yml
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit c2c05777e3b3ccf048f6c299f081d017bc7b0d9b
+Author: Christoph Junghans <junghans@lanl.gov>
+Date:   Thu Jan 14 12:49:01 2021 -0700
+
+    social: add wikidata page (#185)
+
+commit 40921e4f54a879b8187483fb7ff66e61bc681979
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Thu Jan 14 11:45:47 2021 -0800
+
+    Issue 180 - Distill Bugfix (#182)
+    
+    * dark_mode.js was not being loaded on distill blog pages.
+    * Moved dark_mode.js and jquery.html to head.html to simplify/standardize dark mode/theming for other pages.
+
+commit 6b28f901fb90a62a0e8441d3d24fa9985a54a0c8
+Author: Zirui Zhuang <zr.zz.alp@gmail.com>
+Date:   Tue Jan 12 12:54:27 2021 +0800
+
+    add coauthor annotation (#175)
+    
+    * add coauthor annotation
+    
+    * fix typo in coauthors.yml
+    
+    * add brief author annotation tutorial in README.md
+    
+    * change to combined data structure
+    
+    Coauthors are grouped by their last names. Within each group, using flat format (array of {firstnames, url}).
+    
+    * Update _layouts/bib.html
+    
+    stylistic changes
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    stylistic changes
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    stylistic changes
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Update _layouts/bib.html
+    
+    stylistic changes
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit dc254f72803ab434b318b39d597b8194b15da015
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Fri Jan 8 16:48:26 2021 -0800
+
+    Issue 173 fix (#178)
+    
+    * Changed color of icon from static to using variable.
+
+commit 3cdd0f6f1b2df6d813365a8b7e4c26a4ea9f28c6
+Author: Dinesh Natesan <AbstractGeek@users.noreply.github.com>
+Date:   Thu Jan 7 20:17:38 2021 +0530
+
+    Add webpage + add panelbear analytics (#176)
+    
+    * Add webpage to academic pages list
+    
+    * adding panelbear analytics
+
+commit e2353bcc8fc93c462f782652f3f3606a01a6914c
+Author: Lorenzo Pacchiardi <lorenzo.pacchiardi@stats.ox.ac.uk>
+Date:   Tue Jan 5 16:04:18 2021 +0100
+
+    Check for local untracked files when deploying (#168)
+    
+    * Check for local untracked files when deploying
+    
+    * Compress test for untracked files to 1 line
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+    
+    * Add vendor to .gitignore
+    
+    * Add .bundle to .gitignore
+    
+    Co-authored-by: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+
+commit c4be6f84575ca3ef1deb0ba12447c53083ad274a
+Author: Christoph Junghans <junghans@lanl.gov>
+Date:   Tue Jan 5 07:37:57 2021 -0700
+
+    social: add work url (#171)
+    
+    * social: add work url
+    
+    * Deploy: --dry-run -> --no-push
+
+commit 625fb694d6584f7bda6a36cf4d319cb6ae0ea1b4
+Author: Christoph Junghans <christoph.junghans@gmail.com>
+Date:   Mon Jan 4 18:09:20 2021 -0700
+
+    Github action: add deploy workflow (#163)
+    
+    * Github action: add deploy workflow
+    
+    * Update .github/workflows/deploy.yml
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit 0369fe35e50f1bc6ca9fc9e95f198ddc69eac119
+Author: Zhuoran Qiao <zqiao@caltech.edu>
+Date:   Sat Jan 2 13:07:08 2021 -0800
+
+    Update the list of academic pages (#165)
+
+commit 4f9cdb131e01fa2febb075df518faaa41465b633
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Dec 27 00:24:25 2020 -0500
+
+    Minor fixes of the dark mode + automatic equation numbering (#160)
+    
+    * Add an option for showing selected publications
+    
+    * Improve publication styles
+    
+    * Update README.md
+    
+    * Clearfix
+    
+    * Fix minor issues with dark mode
+    
+    * Add automatic equation numbering (#158)
+    
+    * Fix a typo
+
+commit b36304ab4aaef00103714d1c1cbba04c8b04e1bf
+Author: Huyen Nguyen <huyen26nguyen@gmail.com>
+Date:   Sun Dec 27 09:57:17 2020 +0700
+
+    Update text color in navbar in dark mode (#154)
+
+commit b73662bf9d5f062cb599c68ec82951b194d3ec24
+Author: Zirui Zhuang <zr.zz.alp@gmail.com>
+Date:   Sun Dec 27 10:56:42 2020 +0800
+
+    add wide screen configuration (#157)
+    
+    add wide screen configuration by adding a `max_width` config in `_config.yml`
+
+commit 78865389925a3870b44031b024d2e4802b48b9d0
+Author: Zirui Zhuang <zr.zz.alp@gmail.com>
+Date:   Sun Dec 27 10:52:15 2020 +0800
+
+    Support more accurate author annotation (#156)
+    
+    added a list `scholar: first_name` in `_config.yml`
+    updated `_layouts/bib.html` template
+    supports more accurate author annotation by both matching the last name and one form of first name in the `_config.yml/scholar: first_name`
+
+commit 420e2280ebdf25cda323e8867f6b84197cd05833
+Author: Huyen Nguyen <huyen26nguyen@gmail.com>
+Date:   Thu Dec 17 05:35:17 2020 +0700
+
+    Update README, change theme-color in _themes.scss (#153)
+    
+    $theme-color value should be updated from _sass/_themes.scss instead of _sass/variables.scss
+
+commit 2781e2eb4e053e57e41dec0306e7f53942936ef8
+Author: zt-chen <zitaichen@outlook.com>
+Date:   Mon Nov 30 15:00:47 2020 +0000
+
+    Move GA script to head.html (#140)
+
+commit 4a866f64c4d6d0617dd842d4246bc718ba638a90
+Author: Swabha Swayamdipta <swabha.swayamdipta@gmail.com>
+Date:   Fri Nov 6 08:01:24 2020 -0800
+
+    Update _base.scss (#137)
+    
+    Description text size should match whether or not there is a link.
+
+commit 8f12d73123c53439c43f7db6c7d73316c1a4fc9e
+Author: Swabha Swayamdipta <swabha.swayamdipta@gmail.com>
+Date:   Fri Nov 6 08:01:08 2020 -0800
+
+    Adding back the description on the About page (#136)
+    
+    Added back the missing description on `about.html`, similar to `page.html`. This could additionally be added back to the `post.html` template as well.
+
+commit c40ac6997dfb06a8e795f95fee9549c3558cd798
+Author: Seonghyun Park <shp4rk@gmail.com>
+Date:   Mon Oct 26 03:44:41 2020 +0900
+
+    Add keybase badge (#132)
+
+commit 66fb789f9231a4744c8617b0680be94bdef92bb7
+Author: Yoonho Lee <yooonholee@gmail.com>
+Date:   Mon Oct 26 03:40:38 2020 +0900
+
+    add website (#134)
+
+commit e30a46bbfa50e7941c0fb7f7a29d7fe21dd2244a
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Sun Oct 4 17:32:47 2020 -0700
+
+     Issue 105 : Dark Mode + Theming #118  (#119)
+    
+    * Dark Mode + Theming
+    
+    * Themes scss file created with default color scheme and dark color scheme.
+    
+    * Logic for managing dark mode toggle added.
+    
+    * Modified existing scss/html to work with theme toggling.
+    
+    * Fixed hover issues
+    
+    * Added enable_darkmode to configs.
+    
+    * Added the requested option of disabling/enabling dark mode via config files.
+
+commit c085a63ca6f358e9e082ce003155e61b70f429a7
+Author: Mayank Kakodkar <907530+kakodkar@users.noreply.github.com>
+Date:   Sat Oct 3 17:22:39 2020 -0500
+
+    Updated Google Analytics code (#123)
+    
+    GA site tag was updated today, misc.html has been changed to reflect the same.
+
+commit a734d4a4bc357164ec15c9e10eb6f4e5c8d6f89d
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Sat Oct 3 18:21:56 2020 -0400
+
+    Github MetaData (#121)
+    
+    * Feature Request : https://github.com/alshedivat/al-folio/issues/85
+    
+    * Added github-metadata dependency :  https://github.com/jekyll/github-metadata
+    
+     * Created sample blog quickly going over Github MetaData.
+    
+    Co-authored-by: Maruan <alshedivat@users.noreply.github.com>
+
+commit f92f466117c48885790114a683f797327e49e314
+Author: JD <Jdoublewoo@gmail.com>
+Date:   Sat Oct 3 18:16:34 2020 -0400
+
+    Added Twitter Card Support (#120)
+    
+    * Feature Request : https://github.com/alshedivat/al-folio/issues/85
+    
+    * Created sample blog post for tweet card examples.
+    
+    * Added twitter plugin dependency : https://github.com/rob-murray/jekyll-twitter-plugin
+    
+    * Added .tweet-cache/ to .gitignore.
+
+commit dacac74d31c94936b2d124f21f0514c54c46065e
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Sep 26 12:26:28 2020 -0400
+
+    Fix issues with loading scripts (#117)
+
+commit adfbe18e6425de7dbc1035195eab5f0e8a622acd
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Sep 22 22:26:13 2020 -0400
+
+    Switch to MathJax 3.x. Fixes #115.
+
+commit 261425914562fc6326f924dfce158c7b3ec761f3
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Sep 11 20:54:58 2020 -0400
+
+    Update README.md
+
+commit 8d614c2a8a7888f20c3c102a8e4ca7f74d14f6d0
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Sep 11 18:51:35 2020 -0400
+
+    Update README.md
+
+commit 1ebe6e672236b58e73cf9686cd7d29b852bb169a
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Sep 6 17:05:03 2020 -0400
+
+    Update CSS & JS library versions
+
+commit 4192e817cac766824745f0fdc437c84022d7af60
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Sep 3 19:25:39 2020 -0400
+
+    Update README.md
+
+commit 4dc26260d73a62f4d01de76a7cae4c4d5d03d692
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Sep 3 19:24:34 2020 -0400
+
+    v0.3.1 (#112)
+    
+    * Add an option for showing selected publications
+    
+    * Improve publication styles
+    
+    * Update README.md
+    
+    * Clearfix
+
+commit b9dadac8de7f10fff617c164849d973b26bf8fd7
+Merge: 8ffa658 619bb2d
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Sep 3 18:50:56 2020 -0400
+
+    Merge pull request #111 from mvdoc/fix/longlastnames
+    
+    FIX add first/middle/last name var in config
+
+commit 619bb2df74a79d551785d3c478fb7cc6fe2c028d
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Thu Sep 3 18:49:23 2020 -0400
+
+    Minor fixes
+
+commit 4ce137840f30de2c8d0129fad0ceb9314acfb3b3
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Sep 3 18:26:17 2020 -0400
+
+    Apply suggestions from code review
+
+commit 043130c7f4f43883e47c0304b3ed0e96ee498b85
+Author: Matteo Visconti di Oleggio Castello <mvdoc@berkeley.edu>
+Date:   Sat Aug 29 18:48:02 2020 -0700
+
+    FIX use name vars for footer too
+
+commit cec9abe2cd3da088dffee73059c24dffd398102c
+Author: Matteo Visconti di Oleggio Castello <mvdoc@berkeley.edu>
+Date:   Sat Aug 29 18:44:52 2020 -0700
+
+    FIX add first/middle/last name var in config
+
+commit 8ffa65820dc1f6ced0dd07ff45e7245551f975bb
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Fri Aug 28 11:19:21 2020 -0400
+
+    Remove sort_by from jekyll-scholar settings. Fixes #107.
+
+commit 605df838f37c07cfb5791b43bc516f6c45613412
+Author: Jason Fleischer <jason.g.fleischer@gmail.com>
+Date:   Tue Jul 14 07:41:06 2020 -0700
+
+    Changes allow for more than first and last name to be displayed (#102)
+    
+    If more than 2 elements in _config.yml variable `site.title`, any middle names or initials will be displayed.
+
+commit 452a50e7c67b3fee592f1f0648827f1445fdc724
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Wed Jun 24 13:31:02 2020 -0400
+
+    Update issue templates
+
+commit 28129056a4bcbde655e448d6b2f97f777b7976ac
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Wed Jun 24 13:19:15 2020 -0400
+
+    Minor updates to README
+
+commit b8d2dba491d31ed113fd0e1d33f27c360232aa7a
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jun 21 15:16:59 2020 -0400
+
+    Update FUNDING.yml
+
+commit 9b7ba1ef7b7977b7885e061e57db58613c4abad4
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jun 21 15:04:51 2020 -0400
+
+    Create FUNDING.yml
+
+commit ee63cb0f3acb87134e0abe4340e79669a151b55f
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jun 21 14:57:12 2020 -0400
+
+    Update issue templates
+
+commit 23d5ca84dfaf5721be90130d87c382ff39192681
+Merge: ad39d02 b19353e
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sun Jun 21 14:36:54 2020 -0400
+
+    Merge pull request #96 from alshedivat/dev
+    
+    al-folio 0.3
+
+commit b19353e934db751b164119bbafd10d4f6cee674b
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Jun 21 14:34:28 2020 -0400
+
+    Update README
+
+commit 738791a3f9e086506b37422d9693f0e85c1268fd
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Jun 21 14:07:30 2020 -0400
+
+    Update README
+
+commit 938b22e13222c06cf90c89e9924d13d1218be6b4
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Jun 14 23:09:03 2020 -0400
+
+    Minor fixes
+
+commit c3a504783503560c519a52a6e07fa277ae36ce85
+Author: jkmacc-LANL <jkmacc@lanl.gov>
+Date:   Sat May 30 13:42:32 2020 -0600
+
+    Document that blog_name changes the navbar (#89)
+
+commit 4048904c24ca30804f7b6f31de6a44f3fc7e6db8
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 23 16:53:14 2020 -0400
+
+    Add imagesLoaded.js
+
+commit 164f2d1beed42cda37bc77b44fafe0d583cb2141
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 17 07:05:09 2020 -0400
+
+    Update publication styles
+
+commit 2b45cde8a1156a1f283941ec047fabfab6b30169
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 17 05:52:42 2020 -0400
+
+    Adjust example posts/projects
+
+commit b6543ef41ed623ec9e9b1feef0f50b9ea36c4db7
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 17 05:52:09 2020 -0400
+
+    Simplify layout logic
+
+commit 097a32a680858f4558f497a7e301acdb8f4c8019
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 3 11:53:11 2020 -0400
+
+    Upgrade project grid
+
+commit 05748528a79ae6e1ce0eac66edcdd72ba2fc7ca1
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 3 01:28:30 2020 -0400
+
+    Upgrade project grid
+
+commit 3a133cc07e625a4e8c14260fdd623a7205822bb6
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 19:31:41 2020 -0400
+
+    Further adjustments
+
+commit 2bdbd6bc57b2beb211e79d36b40be41077b3a51b
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 19:29:00 2020 -0400
+
+    Minor footer style fix
+
+commit 35f4c659900f194597d34768c1ef6d028e36601a
+Merge: 6fda5af ad39d02
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 19:21:30 2020 -0400
+
+    Merge branch 'master' into dev
+
+commit 6fda5af2b0c90a99ac5770d837cfa4db0d5929f8
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 19:14:27 2020 -0400
+
+    Add distill post styles and template
+
+commit 6e9de53d680c338a350e7e5925472dd8484de19d
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 18:09:42 2020 -0400
+
+    Update pagination
+
+commit 60ed29eb5ba133902cbe2c97936186cda8e344ea
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 17:08:36 2020 -0400
+
+    Fix code highlighting
+
+commit 39745a92247dbe798f03dd239b7d627a1f729a9b
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 2 15:45:16 2020 -0400
+
+    Minor fixes to navbar
+
+commit edc854aa3a3265fce8bf9974dfa4cc0618b34516
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Fri May 1 18:36:18 2020 -0400
+
+    First step toward moving to Bootstrap.
+
+commit ad39d02bdcaf4fd924a749b501f0aa87f073db29
+Author: George Oikonomou <geo-gh@spd.gr>
+Date:   Mon Nov 4 23:42:58 2019 +0000
+
+    Make google analytics conditional (#63)
+    
+    * Make google analytics conditional
+    
+    * Move comment inside the if conditional
+
+commit 29e99ebc7b58983883231cf6d5ebc5cc1f14020c
+Author: George Oikonomou <geo-gh@spd.gr>
+Date:   Mon Nov 4 23:41:10 2019 +0000
+
+    Enable preview images on social media (#66)
+    
+    * Enable preview images on social media
+    
+    This commit adds support for serving Open Graph meta tags inside the HTML head. When enabled, links to the page on social media will display a preview.
+    
+    NB: twitter behaves somewhat differently and may require twitter card meta tags in addition to Open Graph.
+    
+    https://ogp.me/
+    
+    * Remove trailing whitespaces
+    
+    * Support page-specific open graph social media previews
+    
+    * Document open graph support in the readme
+    
+    * Improve open graph support
+
+commit 72377b247ea4278785a29fb28eb365ee11e48883
+Author: George Oikonomou <geo-gh@spd.gr>
+Date:   Mon Nov 4 04:47:46 2019 +0000
+
+    Add social buttons: Publons, ResearchGate and Blogger (#65)
+    
+    * Add social button: Publons
+    
+    * Add social button: ResearchGate
+    
+    * Add social button: Blogger
+
+commit 31b3f68a75f5fb5303a43cfdc8550ec689d5693b
+Author: George Oikonomou <geo-gh@spd.gr>
+Date:   Thu Oct 31 18:21:53 2019 +0000
+
+    Make the display of an email conditional
+
+commit 6882ab1d776dc6807f35c26f2db26e9a00a583b4
+Author: Mark Dean <mpmdean@gmail.com>
+Date:   Thu Aug 1 15:35:18 2019 -0400
+
+    Include link and pdf in bib
+
+commit 710cf8387697c70355e63e1dbb24a562380daa6b
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Thu Jul 18 15:47:15 2019 +0100
+
+    Added css to take account of vertical scroll bar and avoid content jumps
+
+commit 59e4e39a5dffddac05de583084af20d59048d203
+Author: Mayank Kakodkar <mkakodkar@users.noreply.github.com>
+Date:   Fri Feb 22 17:18:48 2019 -0500
+
+    Update _config.yml
+    
+    Added placeholders for the quora and medium social icons
+
+commit 8e390b12de193b0a279f1be240019905f997e0fe
+Author: Mayank Kakodkar <mkakodkar@users.noreply.github.com>
+Date:   Thu Feb 21 15:10:31 2019 -0500
+
+    Added quora and medium to social
+
+commit 65b661ce6e40fc99f7b5ddcce3ba0cf89ca44295
+Author: Jess <jessachandler@gmail.com>
+Date:   Mon Feb 11 09:00:43 2019 -0800
+
+    move image-row height and col to media queries to adjust with viewport
+
+commit dc14524af2ccbda60a9806782919d30d1d5fc03c
+Merge: 8a7ddac 488cb39
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Dec 25 14:09:11 2018 +0300
+
+    Merge branch 'master' into dev
+
+commit 488cb39f9cedc1cf50af780bb71ac5232ef92ebf
+Author: Tiago Tresoldi <tresoldi@shh.mpg.de>
+Date:   Sun Sep 30 21:08:54 2018 +0200
+
+    Fixes bug when generating publications from single authors. (#27)
+    
+    * Fixes bug when generating publications from single authors.
+    
+    * Fixes generation of author string for multiple authors
+    
+    * Fixed number of spaces in indentation
+
+commit 9cbed31f1031a32fa5cd87b28576a9bb0a8be2d9
+Author: Sahir Bhatnagar <sahir.bhatnagar@gmail.com>
+Date:   Thu Aug 23 23:35:02 2018 -0400
+
+    Do not delete CNAME when moving _site files to deploy branch (#25)
+    
+    The step in the deploy script that deletes almost all files except for _site/ was causing issues if you have a custom domain name. GitHub pages requires a CNAME, so I added this to the list of files not to delete.
+
+commit 8fc0c4b4e32ba7583e65ee95159903355c9d5ced
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jun 19 10:07:28 2018 -0400
+
+    Minor formatting
+
+commit 0676c85b6e8dda0e02ab893d1e6dd8c3407c0930
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Tue Jun 19 10:05:48 2018 -0400
+
+    Add Travis CI (#21)
+    
+    * Add Travis CI
+    
+    * Add build status badge
+
+commit e7822d4a893898bfc26ad1c0b15b93caa5fd870b
+Merge: 3835ac3 c54ca4d
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Jun 18 09:54:53 2018 -0400
+
+    Merge pull request #15 from samfearn/alignfix
+    
+    Alignfix
+
+commit c54ca4dc63e79ab955c008edaab071d7738f40b7
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Sun Jun 17 23:31:36 2018 +0100
+
+    Changed `baseurl` property of `_config.yml` back to /al-folio and minor edit to `README` for consistency with the al-folio master branch
+
+commit 3835ac3ac419e9258ca46a6fc5f29110b283b1c3
+Merge: 923d9ec 75f37bc
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat Jun 16 13:47:30 2018 -0400
+
+    Merge pull request #19 from samfearn/webkit-text-size-adjust
+    
+    Fixed webkit text scaling `bug`
+
+commit 75f37bc02f451b8598bd5bf73b7d67937dc2fe8a
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Thu Jun 14 01:02:22 2018 +0100
+
+    Fixed webkit text scaling `bug`
+
+commit b9cb16473f70b7d945a630fd08e03d8ddbe9603b
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Mon Jun 11 01:01:05 2018 +0100
+
+    Removed profile align property completely
+
+commit 2c72ee76c0bdec16eb847e6fb7eac621effc43eb
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Mon Jun 11 00:54:05 2018 +0100
+
+    Added left class to all images
+
+commit 2a2951461dbacc060f669fc285b89a38dfb42157
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Mon Jun 11 00:50:39 2018 +0100
+
+    Removed align:left from col class
+
+commit 8c510a8b8e0c9e542c069074c2c24d8754417ef2
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Mon Jun 11 00:49:44 2018 +0100
+
+    Removed !important flag from profile class alignment
+
+commit dc5205adef13498d8fa8ca4c7347dba689d10778
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Fri Jun 8 17:22:22 2018 +0100
+
+    Bump license year to 2018
+
+commit d263296c8a16bdecf97b37da7694dc209ea78af9
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Fri Jun 8 17:20:30 2018 +0100
+
+    added a usage section to the readme describing that an index page is not neccessary, and will overwrite the about page if it exists. Also added a link to the MIT license following the default jekyll theme readme.
+
+commit d05f8a376760d9a4e62f6f345e69aa8c3e58653f
+Author: Sam Fearn <sam.fearn@gmail.com>
+Date:   Fri Jun 8 17:05:46 2018 +0100
+
+    changed root url from /al-folio to empty
+
+commit 923d9ec7538f72b8ce1d9298ef046cac6e0f9a1c
+Merge: eef5f78 246a878
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon May 7 13:42:24 2018 -0400
+
+    Merge pull request #14 from adunning/patch-1
+    
+    Add ORCID support; make social links optional
+
+commit 246a8780abff61530c8a190ccf164b7c1ce83940
+Author: Andrew Dunning <adunning@users.noreply.github.com>
+Date:   Mon May 7 13:35:44 2018 -0400
+
+    Remove sample user names
+
+commit e22d3727025ad319b16f2200849d80cc3a0d7d5d
+Author: Andrew Dunning <adunning@users.noreply.github.com>
+Date:   Mon May 7 13:33:18 2018 -0400
+
+    Make email mandatory
+
+commit b3ea2d91682eab155667c8c9c608b963087b15f2
+Author: Andrew Dunning <adunning@users.noreply.github.com>
+Date:   Wed Apr 25 16:15:23 2018 -0400
+
+    Fix whitespace
+
+commit 500ad4c4be1344aa22ad7cf77bf66871ae0662c5
+Author: Andrew Dunning <adunning@users.noreply.github.com>
+Date:   Wed Apr 25 16:14:37 2018 -0400
+
+    Provide sample social profiles
+
+commit dc1589092f6a4de9d1ec00a42239d147a44def85
+Author: Andrew Dunning <adunning@users.noreply.github.com>
+Date:   Wed Apr 25 16:03:37 2018 -0400
+
+    Add ORCID support; make social links optional
+    
+    This adds ORCID to the social profiles allowed by default, and only shows links if they are included in the site configuration.
+
+commit eef5f7803ace92c2e61fcc6e7d7010d993a15528
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Mon Apr 9 00:25:45 2018 -0400
+
+    Upgrade fontawesome. Add email protection.
+
+commit e1eb426f3588393241d409f556bf1a60ce70cb97
+Merge: aa538de 1919f8c
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Wed Apr 4 13:36:00 2018 -0400
+
+    Merge pull request #13 from krrish94/unicode_utils_bug
+    
+    Update Gemfile
+
+commit 1919f8c0aa46189f211f87e2c84aeb38c5995558
+Author: Krishna Murthy <krrish94@gmail.com>
+Date:   Fri Mar 30 23:56:05 2018 -0400
+
+    Update Gemfile
+
+commit aa538dea4152261451b29becbad15bd414ecbd73
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Thu Mar 1 14:06:13 2018 -0500
+
+    Update README.md
+
+commit 0d48d01553a9003c132abf412e02adb87e35bbc2
+Merge: ed1aaca 2d88a59
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Fri Jan 19 14:50:24 2018 +0000
+
+    Merge pull request #10 from monkeywithacupcake/master
+    
+    add collapsible menu and hamburger for mobile - closes #3
+
+commit 2d88a5998a5c86484716f2e3143858586d2ce182
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sun Jan 14 07:32:42 2018 +0900
+
+    updated spacing
+
+commit f5f32c30f2471e7b64abd33ff2189308d5c9f2fe
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sun Jan 14 07:30:21 2018 +0900
+
+    move media query import up
+
+commit 4e26555c3ad9bb773d5a5a72f18db561da358443
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sun Jan 14 07:26:14 2018 +0900
+
+    adjusted spacing
+
+commit 9c7f01301b22f5fced2a11eb853a074a290547fe
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sun Jan 14 07:21:55 2018 +0900
+
+    edited spacing
+    
+    4 spaces per tab
+
+commit c7553ec06f4c8a4131e0e28b5cb50f5effdd9810
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sat Jan 6 08:56:22 2018 +0900
+
+    add media query for collapsible menu and hamburger
+
+commit 3a0a0affa54f022a8e972bc34e34f04417d8b982
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sat Jan 6 08:54:54 2018 +0900
+
+    add on-palm
+    
+    this screen size variable will determine when to use the hamburger
+
+commit 23bfe7ee4eb806ed65997aaa481399898ed59ecd
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sat Jan 6 08:52:53 2018 +0900
+
+    add a generic media-query mixin
+
+commit 471825b973cb5de5e0fc973811cb751c687dad34
+Author: monkeywithacupcake <jessachandler@gmail.com>
+Date:   Sat Jan 6 08:51:27 2018 +0900
+
+    add hamburger to header.html
+
+commit ed1aaca87c5a8378798ff5fd278275b0e5763e8b
+Merge: 02fcb9d 0562ac3
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Mon Nov 6 12:58:17 2017 -0500
+
+    Merge pull request #8 from Mayankm96/master
+    
+    Minor changes to improve integration
+
+commit 0562ac360ab2f87f8e26b3c07aa7364684b9804c
+Author: Mayankm96 <mayankmittal155@gmail.com>
+Date:   Sat Nov 4 07:37:39 2017 +0530
+
+    fixed instruction for User deployment
+
+commit db3257ff54df68f3ee2a285d9b0c9437aeb46608
+Author: Mayankm96 <mayankmittal155@gmail.com>
+Date:   Sat Nov 4 07:36:57 2017 +0530
+
+    google analyics liquid tag added
+
+commit 02fcb9d43479f1bedbcf0beef52b949f3ddd804b
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Sep 26 10:19:27 2017 -0400
+
+    Update README.md
+
+commit 43df930fba896615c7a9fcf9bc17e6d90989cee2
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Sep 26 10:16:08 2017 -0400
+
+    Ensure everything is committed before deploying
+
+commit 6cd780ef6d625e03a1a801e90af73928d4da2523
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Fri Sep 8 13:01:41 2017 -0400
+
+    Update README.md
+
+commit a47b1acd211693bab7f8892a99838319e1043d9e
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Fri Sep 8 12:51:25 2017 -0400
+
+    Improve deploy script (addresses #6)
+
+commit 3277b4e96e0c79e1cbf328627e0957f9278117a1
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Fri Sep 8 12:20:38 2017 -0400
+
+    Update .gitignore
+
+commit 7c258e74f5a61758422bf1cec9c7dc712f8fcc7f
+Author: Maruan Al-Shedivat <alshedivat@openai.com>
+Date:   Sat Jul 1 09:24:04 2017 -0700
+
+    Make deploy script use bunlder
+
+commit 8a7ddacf73107a1c98250a98a5a43c1618a4f078
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Jun 17 11:43:45 2017 -0700
+
+    Update .gitignore
+
+commit bb7d901b03171225836b4d8d9dc958690c322e66
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Jun 17 01:11:46 2017 -0700
+
+    Add Gemfile and installation instructions
+    Addresses #4.
+
+commit 40f39ef3a72db55d1f61fbfd99175147bac7d7ab
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun May 28 17:05:49 2017 -0700
+
+    Minor style fixes
+
+commit 5e6460fdd702c4caa3e9761f44d76a6e200febf7
+Merge: 36e32cc 8353ae6
+Author: Maruan <alshedivat@users.noreply.github.com>
+Date:   Sat May 27 13:49:05 2017 -0700
+
+    Merge pull request #2 from alshedivat/dev
+    
+    Theme upgrade
+
+commit 8353ae60e988e76037b4f3aaa3eecddb8c6f1ddc
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 27 13:47:56 2017 -0700
+
+    Resize images
+
+commit 39f821b7a38fe693d7627cc4d45b8144c73c259e
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 27 13:33:40 2017 -0700
+
+    Update README.md
+
+commit 7114eaabb8f039c8eddcfe190314cc1db49472fb
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 27 12:55:27 2017 -0700
+
+    Small fixes
+
+commit 1e189ff81cbac64e376d90bad44a2a67365a170f
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat May 27 12:47:48 2017 -0700
+
+    Project page style fixes
+
+commit ace8110b89ba19ddfe4fabf3c3388c9d150e600d
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Feb 26 14:58:13 2017 -0500
+
+    Bump license year
+
+commit 32cdcbd78f4390dcdf3a86a7b699ef74baa8b0c5
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Feb 26 14:57:55 2017 -0500
+
+    Delete poetry
+
+commit dc6cb63fbe66a8e6a4defa68187e80ca26b9508a
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sun Feb 26 14:57:28 2017 -0500
+
+    Second round of style cleaning
+
+commit 86044fdbce977c09782e89d89b01815bf3fadc62
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jan 31 12:18:12 2017 -0500
+
+    Downscale images
+
+commit 4bbccc3d8caa5d16b01a2474c5e488707a56d72d
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jan 31 12:17:15 2017 -0500
+
+    Add DISQUS and fix pagination
+
+commit 8b05f3a413c6f072e3a13e3dddde986838182d47
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jan 31 12:15:56 2017 -0500
+
+    First round of style upgrades
+
+commit 20e8a83fcd899da1b9e43c744d9aad97c2012f8a
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jan 31 10:05:44 2017 -0500
+
+    Refresh and update styles
+
+commit 36e32cc92a02e19c569915eb3c44e5d97b52afa4
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 15:47:59 2016 -0400
+
+    Update README.md.
+
+commit 5865c9f2462f99b06a415430b9019b13c294cda8
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 15:27:53 2016 -0400
+
+    Fix issues with fonts and urls.
+
+commit 275236d0f8cf99f9cf11d17e6a962459ab5b917e
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 05:06:21 2016 -0400
+
+    Fix paths.
+
+commit efb2489b079ce2522d480c64c7e9d3a30fbd73b6
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 04:50:43 2016 -0400
+
+    Fix baseurl. Add gh-pages deployment script.
+
+commit 3345ee8317d8ca863a04921302f439590952e59f
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 04:40:03 2016 -0400
+
+    Fix js includes and config.
+
+commit ed63169e50df9835b95e7f0d43810fbcd9501823
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Jul 5 02:38:32 2016 -0400
+
+    Update the theme with a neat publications page.
+
+commit 5f0fbde387fda0bdaf9b595ef575277d51bd73f8
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Sat Oct 24 14:54:29 2015 -0400
+
+    Overall improvements and fixes
+
+commit 4b73664d563e62b94ef45c83c205ff035980cadb
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Thu Oct 22 18:09:12 2015 -0400
+
+    Add the news collection with emoji support. Restructure assets.
+
+commit ecafb6544b646403b2ec10429ea2ecb98342f2a6
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Thu Oct 22 14:59:20 2015 -0400
+
+    Add profile property to about.md
+
+commit 8a3e8188736ef8a36849623bfc7962d061468804
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Thu Oct 22 10:50:19 2015 -0400
+
+    Extract social and news as separate includes. Overall slight improvements.
+
+commit e3dfbf67c72414a10cd3b237e8ce435b3ea2b9d0
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Tue Oct 20 12:05:37 2015 -0400
+
+    Add math support through kramdown and katex. Light style improvements.
+
+commit 1e8dff52bc9a637fce044ef989caf2d6457d3a19
+Author: Maruan Al-Shedivat <alshedivat.maruan@gmail.com>
+Date:   Mon Oct 19 17:38:04 2015 -0400
+
+    Basic modifications of the *folio theme
