@@ -2,7 +2,9 @@
 layout: page
 permalink: /meustextos/
 title: meus textos
-description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis :) Caso você encontre erros, por favor me avise (meu e-mail é "matheus.andrade5488@gmail.com", sem as aspas).
+description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis! :)
+
+Caso você encontre erros, por favor, me avise - meu e-mail é <matheus.andrade5488@gmail.com>.
 nav: true
 nav_order: 2
 ---
