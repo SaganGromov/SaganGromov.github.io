@@ -38,7 +38,7 @@ nav_order: 3
 
 ## Links úteis
 
-* [Aumente sua produtividade no LaTeX! Veja esse post no blog do grande Gilles Castel.](https://castel.dev/post/lecture-notes-1/)
+* [Aumente sua produtividade no LaTeX! Veja esse blog do grande Gilles Castel.](https://castel.dev/post/lecture-notes-1/)
 
 * [Veja também essa adaptação do trabalho de Gilles Castel, que implementa uma excelente integração com o VS Code.](https://github.com/sleepymalc/VSCode-LaTeX-Inkscape)
 
