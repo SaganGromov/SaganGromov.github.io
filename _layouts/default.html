@@ -3,13 +3,10 @@
 
   <!-- Head -->
   <head>
-    <!-- Link to LaTeX CSS -->
-    <link rel="stylesheet" href="https://latex.vercel.app/style.css">
-    
-    {%- if page.redirect -%}
-      <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-    {%- endif -%}
-    {% include head.html %}
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+  {%- endif -%}
+  {% include head.html %}
   </head>
 
   <!-- Body -->
