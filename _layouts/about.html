@@ -5,8 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
     <link rel="stylesheet" href="https://latex.vercel.app/style.css">
+    <style>
+        /* Ensure the profile image resizes within view */
+        .profile img {
+            max-width: 100%;
+            height: auto;
+            max-height: 100vh; /* Ensures the image fits without scrolling */
+            object-fit: contain;
+        }
+
+        /* Styling for top-right navigation buttons */
+        .top-right-buttons {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .top-right-buttons a {
+            padding: 10px 15px;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        
+        .top-right-buttons a:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
+
+<div class="top-right-buttons">
+    <a href="/home">Home</a>
+    <a href="/contact">Contact</a>
+    <a href="/projects">Projects</a>
+    <!-- Add more buttons as needed -->
+</div>
 
 <div class="post">
     <!-- Existing content in about.html -->
