@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/meustextos/";
           },
-        },{id: "nav-meus-textos",
-          title: "meus textos",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/meustextos/";
-          },
-        },{id: "nav-utilidades",
-          title: "utilidades",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/qw/";
-          },
         },{id: "nav-utilidades",
           title: "utilidades",
           description: "",
