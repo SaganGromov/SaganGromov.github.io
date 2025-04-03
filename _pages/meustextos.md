@@ -5,6 +5,7 @@ title: meus textos
 # description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis :) <br> Caso você encontre erros, por favor me avise (meu e-mail é "matheus.andrade5488@gmail.com", sem as aspas).        
 nav: true
 nav_order: 2
+pagination: true
 ---
 
 Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis! :)

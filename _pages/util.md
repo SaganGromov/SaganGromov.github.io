@@ -5,6 +5,7 @@ title: utilidades
 description: 
 nav: true
 nav_order: 3
+pagination: true
 ---
 
 # Livros úteis
