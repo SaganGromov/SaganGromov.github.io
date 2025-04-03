@@ -1,13 +1,17 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /meustextos/
 title: meus textos
-description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis :) Caso você encontre erros, por favor me avise (meu e-mail é "matheus.andrade5488@gmail.com", sem as aspas).
-nav: false
+# description: Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis :) <br> Caso você encontre erros, por favor me avise (meu e-mail é "matheus.andrade5488@gmail.com", sem as aspas).        
+nav: true
 nav_order: 2
 ---
 
-* [Um passeio histórico](https://sagangromov.github.io/assets/pdf/passeio.pdf)
+Aqui você encontra alguns textos que eu escrevi. Espero que sejam úteis! :)
+
+Caso você encontre erros, por favor me avise - meu e-mail é <code>matheus.andrade5488@gmail.com</code>. 
+
+* [Um passeio histórico: de Eratóstenes a Perelman e a topologia do Universo](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
 * [Minha dissertação de mestrado](https://sagangromov.github.io/assets/pdf/MinhaDissertacao.pdf)
 
