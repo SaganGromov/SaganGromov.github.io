@@ -16,6 +16,8 @@ Caso você encontre erros, por favor me avise - meu e-mail é <code>matheus.andr
 
 * [Minha dissertação de mestrado](https://sagangromov.github.io/assets/pdf/MinhaDissertacao.pdf)
 
+* [Preparatório para o exame de qualificação em Análise Funcional e EDP do doutorado (segunda área)](https://sagangromov.github.io/assets/pdf/preparatorio_exame.pdf)
+
 * [One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
 * [Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
