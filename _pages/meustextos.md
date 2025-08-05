@@ -18,6 +18,8 @@ Caso você encontre erros, por favor me avise - meu e-mail é <code>matheus.andr
 
 * [Preparatório para o exame de qualificação em Análise Funcional e EDP do doutorado (segunda área)](https://sagangromov.github.io/assets/pdf/preparatorio_exame.pdf)
 
+* [Texto de apoio ao trabalho final da disciplina IMCEDO](https://sagangromov.github.io/assets/pdf/IMCEDO_TRABALHO.pdf)
+
 * [One chart to rule them all!](https://sagangromov.github.io/assets/pdf/OneChart.pdf)
 
 * [Produtos warped](https://sagangromov.github.io/assets/pdf/ProdutosWarped.pdf)
