@@ -43,6 +43,8 @@ pagination: true
 
 * [Veja também essa adaptação do trabalho de Gilles Castel, que implementa uma excelente integração com o VS Code.](https://github.com/sleepymalc/VSCode-LaTeX-Inkscape)
 
+* [How to take smart notes, por Sönke Ahrens](https://sagangromov.github.io/assets/pdf/smart_notes.pdf)
+
 * [sci-hub](https://sci-hub.se/)
 
 * [libgen](https://libgen.is/)
