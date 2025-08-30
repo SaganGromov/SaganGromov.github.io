@@ -26,11 +26,13 @@ pagination: true
 
 * [A comprehensive introduction to differential geometry, Volume Five, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol5.pdf)
 
-* [Introduction to Riemannian manifolds, John Lee](https://sagangromov.github.io/assets/pdf/RiemLee.pdf)
+* [Introduction to Topological Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/TopLee.pdf)
 
 * [Introduction to Smooth Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/SmoothLee.pdf)
 
-* [Introduction to Topological Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/TopLee.pdf)
+* [Introduction to Riemannian manifolds, John Lee](https://sagangromov.github.io/assets/pdf/RiemLee.pdf)
+
+* [Introduction to Complex Manifolds, John Lee](https://sagangromov.github.io/assets/pdf/ComplexLee.pdf)
 
 * [An Introduction to Manifolds, Loring Tu](https://sagangromov.github.io/assets/pdf/ManTu.pdf)
 
