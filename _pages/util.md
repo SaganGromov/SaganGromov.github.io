@@ -16,6 +16,8 @@ pagination: true
 
 * [Riemannian Geometry, Petersen](https://sagangromov.github.io/assets/pdf/PetR.pdf)
 
+* [A Panoramic View of Riemannian Geometry, Marcel Berger](https://sagangromov.github.io/assets/pdf/BERGER_PANORAMIC_VIEW.pdf)
+
 * [A comprehensive introduction to differential geometry, Volume One, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
 
 * [A comprehensive introduction to differential geometry, Volume Two, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
