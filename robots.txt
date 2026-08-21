@@ -1,8 +1,7 @@
 ---
-layout: null
 permalink: /robots.txt
 ---
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: {{ "/sitemap.xml" | absolute_url }}
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
