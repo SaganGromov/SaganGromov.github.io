@@ -1,0 +1,25 @@
+- title: "Local structure of gradient almost Ricci solitons with harmonic Weyl tensor"
+  authors: "Valter Borges · Matheus Andrade Ribeiro de Moura Horácio · João Paulo dos Santos"
+  venue:
+    pt: "Journal of Geometric Analysis 36, artigo 256 · 2026"
+    en: "Journal of Geometric Analysis 36, article 256 · 2026"
+  summary:
+    pt: "Estudamos a estrutura local de quase-sólitons de Ricci gradiente com tensor de Weyl harmônico e classificamos o caso em que o tensor de Ricci tem exatamente dois autovalores distintos."
+    en: "We study the local structure of gradient almost Ricci solitons with harmonic Weyl curvature and classify the case in which the Ricci tensor has exactly two distinct eigenvalues."
+  links:
+    - label: DOI
+      url: "https://doi.org/10.1007/s12220-026-02507-9"
+    - label: arXiv
+      url: "https://arxiv.org/abs/2510.13057"
+
+- title: "The Ricci tensor of a gradient Ricci soliton with harmonic Weyl tensor"
+  authors: "Valter Borges · Matheus Andrade Ribeiro de Moura Horácio · João Paulo dos Santos"
+  venue:
+    pt: "Preprint · 2025"
+    en: "Preprint · 2025"
+  summary:
+    pt: "Damos uma prova mais curta de que o tensor de Ricci de um sóliton de Ricci gradiente com tensor de Weyl harmônico tem, no máximo, três autovalores distintos."
+    en: "We give a shorter proof that the Ricci tensor of a gradient Ricci soliton with harmonic Weyl curvature has at most three distinct eigenvalues."
+  links:
+    - label: arXiv
+      url: "https://arxiv.org/abs/2510.11939"

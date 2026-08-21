@@ -1,0 +1,143 @@
+- kind: long
+  file: "/assets/pdf/MinhaDissertacao.pdf"
+  title:
+    pt: "Estimativas de curvatura para sólitons de Ricci gradiente quadridimensionais"
+    en: "Curvature estimates for four-dimensional gradient Ricci solitons"
+  description:
+    pt: "Dissertação de mestrado, Universidade de Brasília."
+    en: "Master’s dissertation, University of Brasília. Written in Portuguese."
+
+- kind: long
+  file: "/assets/pdf/passeio.pdf"
+  title:
+    pt: "De Eratóstenes a Perelman e à topologia do Universo"
+    en: "From Eratosthenes to Perelman and the topology of the Universe"
+  description:
+    pt: "Um passeio histórico por ideias geométricas."
+    en: "A historical tour through geometric ideas. Written in Portuguese."
+
+- kind: long
+  file: "/assets/pdf/preparatorio_exame.pdf"
+  title:
+    pt: "Preparatório para o exame de Análise Funcional e EDP"
+    en: "Functional Analysis and PDE qualifying-exam preparation"
+  description:
+    pt: "Material para a segunda área do exame de qualificação do doutorado."
+    en: "Preparation material for the second area of the doctoral qualifying exam. In Portuguese."
+
+- kind: long
+  file: "/assets/pdf/ProdutosWarped.pdf"
+  title:
+    pt: "Produtos warped"
+    en: "Warped products"
+  description:
+    pt: "Notas introdutórias sobre produtos warped."
+    en: "Introductory notes on warped products. Written in Portuguese."
+
+- kind: long
+  file: "/assets/pdf/RefGeodesico.pdf"
+  title:
+    pt: "Referenciais geodésicos"
+    en: "Geodesic frames"
+  description:
+    pt: "Notas breves de geometria Riemanniana."
+    en: "Short notes in Riemannian geometry. Written in Portuguese."
+
+- kind: notes
+  file: "/assets/pdf/OneChart.pdf"
+  title:
+    pt: "One chart to rule them all!"
+    en: "One chart to rule them all!"
+  description:
+    pt: "Uma nota curta sobre cartas e variedades."
+    en: "A short note about charts and manifolds. Written in Portuguese."
+
+- kind: notes
+  file: "/assets/pdf/listasGeoFormas.pdf"
+  title:
+    pt: "Geometria das Formas Diferenciais — listas resolvidas"
+    en: "Geometry of Differential Forms — solved problem sets"
+  description:
+    pt: "Soluções comentadas de exercícios."
+    en: "Commented solutions to problem sets. Written in Portuguese."
+
+- kind: seminar
+  file: "/assets/pdf/Seminário03do08.pdf"
+  title:
+    pt: "Classificações topológicas reveladas pelo fluxo de Ricci"
+    en: "Topological classifications revealed by Ricci flow"
+  description:
+    pt: "Slides do seminário apresentado em 27 de maio de 2026."
+    en: "Slides from the seminar presented on May 27, 2026. In Portuguese."
+  attachments:
+    - file: "/assets/pdf/roteiro-fluxo-de-ricci-2026.pdf"
+      label:
+        pt: "Roteiro"
+        en: "Speaker notes"
+    - file: "/assets/pdf/roteiro-fluxo-de-ricci-2026-detalhado.pdf"
+      label:
+        pt: "Roteiro detalhado"
+        en: "Detailed notes"
+
+- kind: seminar
+  file: "/assets/pdf/seminario0306.pdf"
+  title:
+    pt: "Estrutura local de quase-sólitons de Ricci"
+    en: "Local structure of almost Ricci solitons"
+  description:
+    pt: "Slides sobre quase-sólitons com curvatura de Weyl harmônica, apresentados em 3 de junho de 2026."
+    en: "Slides on almost Ricci solitons with harmonic Weyl curvature, presented on June 3, 2026. In Portuguese."
+  attachments:
+    - file: "/assets/pdf/roteiro-quase-solitons-2026.pdf"
+      label:
+        pt: "Roteiro"
+        en: "Speaker notes"
+    - file: "/assets/pdf/roteiro-quase-solitons-2026-detalhado.pdf"
+      label:
+        pt: "Roteiro detalhado"
+        en: "Detailed notes"
+
+- kind: seminar
+  file: "/assets/pdf/Tensores1104.pdf"
+  title:
+    pt: "Tensores: formas diferenciais e aplicações"
+    en: "Tensors: differential forms and applications"
+  description:
+    pt: "Notas de seminário."
+    en: "Seminar notes in Portuguese."
+
+- kind: notes
+  file: "/assets/pdf/questoesTopologia.pdf"
+  title:
+    pt: "Topologia geral — soluções do verão de 2019"
+    en: "General topology — solutions from the 2019 summer course"
+  description:
+    pt: "Soluções de exercícios da Universidade de Brasília."
+    en: "Problem solutions from the University of Brasília. In Portuguese."
+
+- kind: notes
+  file: "/assets/pdf/MinicursoPETMAT.pdf"
+  title:
+    pt: "Minicurso de variedades diferenciáveis"
+    en: "Short course on differentiable manifolds"
+  description:
+    pt: "Notas de aula apresentadas no PETMAT."
+    en: "Lecture notes presented at PETMAT. Written in Portuguese."
+
+- kind: seminar
+  file: "/assets/pdf/TrabalhoENAPETMAT.pdf"
+  title:
+    pt: "Trabalho apresentado no ENAPETMAT 2019"
+    en: "Talk presented at ENAPETMAT 2019"
+  description:
+    pt: "Texto e material da apresentação."
+    en: "Presentation text and supporting material. In Portuguese."
+
+- kind: notes
+  file: "/assets/pdf/IMCEDO_TRABALHO.pdf"
+  title:
+    pt: "Texto de apoio — IMCEDO"
+    en: "Supporting notes — IMCEDO"
+  description:
+    pt: "Material de apoio ao trabalho final da disciplina."
+    en: "Supporting material for the course’s final project. Written in Portuguese."

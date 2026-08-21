@@ -1,0 +1,36 @@
+{% assign locale = page.locale %}
+<div class="library-toolbar">
+  <p><strong>{{ site.data.writings | size }}</strong> {% if locale == "en" %}documents, mostly in Portuguese{% else %}documentos em português{% endif %}</p>
+  <label>
+    <span>{% if locale == "en" %}Filter the archive{% else %}Filtrar o arquivo{% endif %}</span>
+    <input type="search" placeholder="{% if locale == 'en' %}Title, topic, or format…{% else %}Título, assunto ou formato…{% endif %}" autocomplete="off" data-library-search>
+  </label>
+</div>
+<p class="filter-count" aria-live="polite" data-filter-count></p>
+<div class="library-grid" data-library>
+  {% for item in site.data.writings %}
+    {% case item.kind %}
+      {% when "long" %}
+        {% if locale == "en" %}{% assign kind_label = "Long-form" %}{% else %}{% assign kind_label = "Texto longo" %}{% endif %}
+      {% when "seminar" %}
+        {% if locale == "en" %}{% assign kind_label = "Seminar" %}{% else %}{% assign kind_label = "Seminário" %}{% endif %}
+      {% else %}
+        {% if locale == "en" %}{% assign kind_label = "Notes" %}{% else %}{% assign kind_label = "Notas" %}{% endif %}
+    {% endcase %}
+    <article class="library-card" data-library-item data-search="{{ item.title[locale] | escape }} {{ item.description[locale] | escape }} {{ kind_label }}">
+      <div class="card-topline"><span>{{ kind_label }}</span><span>PDF · PT</span></div>
+      <h2><a href="{{ item.file }}" target="_blank" rel="noopener">{{ item.title[locale] }}</a></h2>
+      <p>{{ item.description[locale] }}</p>
+      <div class="document-links">
+        <a href="{{ item.file }}" target="_blank" rel="noopener">{% if locale == "en" %}Open document{% else %}Abrir documento{% endif %} ↗</a>
+        {% for attachment in item.attachments %}
+          <a href="{{ attachment.file }}" target="_blank" rel="noopener">{{ attachment.label[locale] }} ↗</a>
+        {% endfor %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+<div class="empty-library" hidden data-library-empty>
+  <h2>{% if locale == "en" %}Nothing matched that search.{% else %}Nenhum texto corresponde à busca.{% endif %}</h2>
+  <p>{% if locale == "en" %}Try fewer words.{% else %}Tente usar menos palavras.{% endif %}</p>
+</div>
