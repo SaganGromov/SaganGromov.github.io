@@ -16,7 +16,7 @@ Caso você encontre erros, por favor me avise - meu e-mail é <code>matheus.andr
 
 - [The Ricci tensor of a gradient Ricci soliton with harmonic Weyl tensor](https://arxiv.org/pdf/2510.11939). Em colaboração com Valter Borges Sampaio Junior e João Paulo dos Santos. arXiv preprint.
 
-- [Local structure of gradient almost Ricci solitons with harmonic Weyl tensor](https://doi.org/10.1007/s12220-026-02507-9). Em colaboração com Valter Borges Sampaio Junior e João Paulo dos Santos. *The Journal of Geometric Analysis* **36**, artigo 256 (2026).
+- [Local structure of gradient almost Ricci solitons with harmonic Weyl tensor](https://doi.org/10.1007/s12220-026-02507-9). Em colaboração com Valter Borges Sampaio Junior e João Paulo dos Santos. _The Journal of Geometric Analysis_ **36**, artigo 256 (2026).
 
 - [Um passeio histórico: de Eratóstenes a Perelman e a topologia do Universo](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
