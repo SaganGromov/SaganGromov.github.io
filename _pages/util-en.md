@@ -7,7 +7,7 @@ nav: false
 pagination: true
 ---
 
-[about me](/en/) · [my writing](/en/writings/) · **resources** · [português](/qw/)
+[about me](/en/) · [research](/en/research/) · [my writing](/en/writings/) · **resources** · [português](/qw/)
 
 # Useful books
 

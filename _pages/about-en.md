@@ -16,11 +16,13 @@ selected_papers: false
 social: true
 pagination: true
 nav: true
-nav_order: 4
+nav_order: 5
 dropdown: true
 children:
   - title: about me
     permalink: /en/
+  - title: research
+    permalink: /en/research/
   - title: my writing
     permalink: /en/writings/
   - title: resources

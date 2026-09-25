@@ -7,17 +7,11 @@ nav: false
 pagination: true
 ---
 
-[about me](/en/) · **my writing** · [resources](/en/resources/) · [português](/meustextos/)
+[about me](/en/) · [research](/en/research/) · **my writing** · [resources](/en/resources/) · [português](/meustextos/)
 
 Here you can find some texts I have written. I hope they are useful! :)
 
 If you find any errors, please let me know — my email is <code>matheus.andrade5488@gmail.com</code>.
-
-- [Multiply warped products with harmonic Weyl tensor and zero radial Weyl curvature](https://arxiv.org/pdf/2609.09759). arXiv preprint.
-
-- [The Ricci tensor of a gradient Ricci soliton with harmonic Weyl tensor](https://arxiv.org/pdf/2510.11939). Joint work with Valter Borges Sampaio Junior and João Paulo dos Santos. arXiv preprint.
-
-- [Local structure of gradient almost Ricci solitons with harmonic Weyl tensor](https://doi.org/10.1007/s12220-026-02507-9). Joint work with Valter Borges Sampaio Junior and João Paulo dos Santos. _The Journal of Geometric Analysis_ **36**, article 256 (2026).
 
 - [A historical journey: from Eratosthenes to Perelman and the topology of the Universe](https://sagangromov.github.io/assets/pdf/passeio.pdf)
 
