@@ -714,7 +714,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: color-mix(in srgb, var(--global-text-color) 70%, transparent);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -1423,7 +1423,7 @@ figure.cover {
   margin-top: 2rem;
 
   h2 {
-    color: var(--global-divider-color);
+    color: color-mix(in srgb, var(--global-text-color) 70%, transparent);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -1455,7 +1455,7 @@ figure.cover {
     padding: 0 0.35rem;
     border: 1px solid var(--global-divider-color);
     border-radius: 0.2rem;
-    color: var(--global-text-color-light);
+    color: color-mix(in srgb, var(--global-text-color) 70%, transparent);
     font-size: 0.65rem;
     letter-spacing: 0.05em;
     line-height: 1.6;
