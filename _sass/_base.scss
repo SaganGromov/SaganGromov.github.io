@@ -898,6 +898,11 @@ code {
   padding: 3px 3px;
 }
 
+// The dark theme's cyan is 3.9:1 on the dark code background; a lighter tint of it reaches 6.2:1.
+html[data-theme="dark"] code {
+  color: #5cc0de;
+}
+
 // Transitioning Themes
 html.transition,
 html.transition *,
