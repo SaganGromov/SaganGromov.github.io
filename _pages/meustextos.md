@@ -30,6 +30,7 @@ Caso você encontre erros, por favor me avise - meu e-mail é <code>matheus.andr
 
 - [Slides do seminário “Classificações topológicas reveladas pelo fluxo de Ricci”](https://sagangromov.github.io/assets/pdf/Seminário03do08.pdf)
 - [Slides do seminário “Estrutura local de quase-sólitons de Ricci com curvatura de Weyl harmônica”](https://sagangromov.github.io/assets/pdf/seminario0306.pdf)
+- [Slides do seminário “Structure and Rigidity of Gradient Ricci Solitons”](https://sagangromov.github.io/seminario.pdf)
 - [Notas do seminário sobre tensores da disciplina “Formas diferenciais e aplicações”](https://sagangromov.github.io/assets/pdf/Tensores1104.pdf)
 - [Notas de aula do meu minicurso apresentado no PETMAT de variedades diferenciáveis](https://sagangromov.github.io/assets/pdf/MinicursoPETMAT.pdf)
 - [Meu trabalho apresentado no ENAPETMAT 2019](https://sagangromov.github.io/assets/pdf/TrabalhoENAPETMAT.pdf)

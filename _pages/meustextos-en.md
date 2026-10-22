@@ -31,6 +31,7 @@ If you find any errors, please let me know — my email is <code>matheus.andrade
 
 - [Slides from the seminar “Topological classifications revealed by Ricci flow”](https://sagangromov.github.io/assets/pdf/Seminário03do08.pdf)
 - [Slides from the seminar “Local structure of almost Ricci solitons with harmonic Weyl curvature”](https://sagangromov.github.io/assets/pdf/seminario0306.pdf)
+- [Slides from the seminar “Structure and Rigidity of Gradient Ricci Solitons”](https://sagangromov.github.io/seminario.pdf)
 - [Seminar notes on tensors for “Differential forms and applications”](https://sagangromov.github.io/assets/pdf/Tensores1104.pdf)
 - [Lecture notes from my PETMAT short course on differentiable manifolds](https://sagangromov.github.io/assets/pdf/MinicursoPETMAT.pdf)
 - [My work presented at ENAPETMAT 2019](https://sagangromov.github.io/assets/pdf/TrabalhoENAPETMAT.pdf)
