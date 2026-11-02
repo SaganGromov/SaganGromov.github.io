@@ -1,0 +1,35 @@
+name: ORCID sync check
+
+# ORCID's write API is restricted to member organizations, so this job cannot
+# update the record itself. It fails (GitHub emails the owner) whenever
+# /pesquisa/ lists a work that ORCID does not, and attaches a BibTeX file of
+# the missing works for ORCID's "Import BibTeX".
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "_pages/pesquisa.md"
+      - ".github/scripts/orcid_sync.py"
+      - ".github/workflows/orcid-sync.yml"
+  schedule:
+    - cron: "17 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare /pesquisa/ with the public ORCID record
+        run: python3 -I .github/scripts/orcid_sync.py --bib orcid-missing.bib --summary "$GITHUB_STEP_SUMMARY"
+      - name: Upload BibTeX of missing works
+        if: failure() && hashFiles('orcid-missing.bib') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: orcid-missing-bib
+          path: orcid-missing.bib
