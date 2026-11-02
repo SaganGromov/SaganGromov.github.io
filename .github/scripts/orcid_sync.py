@@ -5,8 +5,13 @@ ORCID only lets member organizations write to records (Member API), so this
 script cannot push works itself. It does the rest: it reads the site, reads
 the public ORCID record, finds works missing from ORCID, fetches their
 metadata from DataCite (arXiv DOIs) or Crossref (journal DOIs), and writes a
-BibTeX file ready for ORCID's "Add works > Import BibTeX". It also prints
-DataCite Commons claim links as an alternative route for the arXiv preprints.
+BibTeX file ready for ORCID's "Add works > Import BibTeX".
+
+ORCID's BibTeX importer has no entry type that maps to "Preprint"
+(bibToWorkTypeMap in ORCID/orcid-angular sends @misc and @unpublished to
+"Other"), and DataCite's claim service maps arXiv's resourceTypeGeneral
+"Preprint" to "Other" as well. After importing, set each preprint's
+Work type to "Preprint" by hand.
 
 Exit status: 0 if ORCID lists every work on the site, 1 if some are missing,
 2 on a fetch or parse error. Standard library only.
@@ -158,21 +163,21 @@ def main():
     lines = [f"ORCID {args.orcid}: {len(works) - len(missing)}/{len(works)} site works present."]
     for w in missing:
         lines.append(f"- MISSING [{w['section']}] {w['title']}")
-        for aid in sorted(w["arxiv"]) if not w["dois"] else []:
-            lines.append(f"  claim: https://commons.datacite.org/doi.org/10.48550/arxiv.{aid}")
     report = "\n".join(lines)
     print(report)
 
     if args.bib and entries:
         args.bib.write_text("\n".join(entries), encoding="utf-8")
         print(f"\nBibTeX for {len(entries)} work(s) written to {args.bib}.")
-        print(f"Import: https://orcid.org/my-orcid > Works > + Add > Import BibTeX")
+        print("Import: https://orcid.org/my-orcid > Works > + Add > Import BibTeX,")
+        print('then edit each imported @misc work and set Work type to "Preprint".')
     if args.summary:
         with args.summary.open("a", encoding="utf-8") as f:
             f.write("## ORCID sync\n\n```\n" + report + "\n```\n")
             if entries:
                 f.write("\nDownload the `orcid-missing-bib` artifact and import it at "
-                        "https://orcid.org/my-orcid (Works > + Add > Import BibTeX).\n")
+                        "https://orcid.org/my-orcid (Works > + Add > Import BibTeX), then set "
+                        "each preprint's Work type to Preprint (BibTeX import makes them Other).\n")
     return 1 if missing else 0
 
 
