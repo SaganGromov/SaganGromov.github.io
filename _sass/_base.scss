@@ -1423,6 +1423,11 @@ figure.cover {
   }
 }
 
+.translation-note {
+  color: color-mix(in srgb, var(--global-text-color) 70%, transparent);
+  font-size: 0.95em;
+}
+
 // Grouped document and link lists (meus textos, utilidades)
 .doc-groups {
   margin-top: 2rem;
@@ -1451,6 +1456,16 @@ figure.cover {
     &:focus-within {
       border-left-color: var(--global-theme-color);
     }
+  }
+
+  .doc-original {
+    color: color-mix(in srgb, var(--global-text-color) 70%, transparent);
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+
+  .doc-original a[href$=".pdf"]::after {
+    content: none;
   }
 
   a[href$=".pdf"]::after {
