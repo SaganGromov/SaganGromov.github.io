@@ -33,6 +33,8 @@ Hello! Welcome to my personal page.
 
 I hold bachelor's and master's degrees in mathematics from the University of Brasília. I am currently a PhD student at the same institution. I am (an aspiring) geometer, and my main mathematical interests are closely related to Ricci flow.
 
+My CV is available [in English](https://sagangromov.github.io/assets/pdf/en/CV_Matheus_Horacio.pdf) and [in Portuguese](https://sagangromov.github.io/assets/pdf/CV_Matheus_Horacio.pdf).
+
 I really like StackExchange! [My main account is on Mathematics Stack Exchange.](https://math.stackexchange.com/users/508844/matheus-andrade?tab=profile)
 
 [Português](/)

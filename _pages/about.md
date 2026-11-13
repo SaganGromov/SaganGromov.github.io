@@ -20,4 +20,6 @@ Olá! Seja bem-vindo(a) à minha página pessoal.
 
 Sou bacharel e mestre em matemática pela Universidade de Brasília. Atualmente sou aluno de doutorado, também pela mesma instituição. Sou (um aspirante a) geômetra, e meus principais interesses matemáticos estão intimamente relacionados com o fluxo de Ricci.
 
+Meu currículo está disponível [em português](https://sagangromov.github.io/assets/pdf/CV_Matheus_Horacio.pdf) e [em inglês](https://sagangromov.github.io/assets/pdf/en/CV_Matheus_Horacio.pdf).
+
 Eu gosto muito do StackExchange! [Minha conta principal é a de matemática.](https://math.stackexchange.com/users/508844/matheus-andrade?tab=profile)
