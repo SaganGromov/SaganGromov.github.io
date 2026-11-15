@@ -20,8 +20,8 @@ pagination: true
 ## links úteis
 
 - [bot do telegram para baixar da z-library](https://t.me/zlibrary2bot)
-- [sci-hub](https://sci-hub.se/)
-- [libgen](https://libgen.is/)
+- [sci-hub](https://sci-hub.ru/)
+- [libgen](https://libgen.li/)
 - [Mathematics Stack Exchange](https://math.stackexchange.com/)
 - [MathOverflow](https://mathoverflow.net/)
 
