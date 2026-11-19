@@ -35,6 +35,7 @@ pagination: true
 - [Geometria Riemanniana, Manfredo P. do Carmo](https://sagangromov.github.io/assets/pdf/Manfredo.pdf)
 - [Riemannian Geometry, Peter Petersen](https://sagangromov.github.io/assets/pdf/PetR.pdf)
 - [A Panoramic View of Riemannian Geometry, Marcel Berger](https://sagangromov.github.io/assets/pdf/BERGER_PANORAMIC_VIEW.pdf)
+- [A Panoramic View of Riemannian Geometry, Marcel Berger (transcrição em LaTeX)](https://sagangromov.github.io/assets/pdf/Berger_Panoramic_View_LaTeX.pdf)
 - [A Comprehensive Introduction to Differential Geometry, Volume 1, Michael Spivak](https://sagangromov.github.io/assets/pdf/Spivak_Vol1_3ed.pdf)
 - [A Comprehensive Introduction to Differential Geometry, Volume 2, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol2.pdf)
 - [A Comprehensive Introduction to Differential Geometry, Volume 3, Michael Spivak](https://sagangromov.github.io/assets/pdf/SpivakVol3.pdf)
